@@ -2,10 +2,19 @@ package Country
 
 import (
 	"database/sql"
+	"fmt"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
 )
+
+var countries = []string{
+	"Ecuador",
+	"Colombia",
+	"Unite Estates",
+	"Sweden",
+	"Unite Kingdom",
+}
 
 type Country struct {
 	Id   int    `json:"id"`
@@ -39,4 +48,14 @@ func GetCountries(c *gin.Context, db *sql.DB) {
 	}
 
 	c.IndentedJSON(http.StatusOK, countries)
+}
+
+func GenerateCountries(_ *gin.Context, db *sql.DB) {
+	for _, country := range countries {
+		_, err := db.Exec("INSERT INTO pais (nombre) VALUES ($1)", country)
+		if err != nil {
+			panic(err)
+		}
+		fmt.Printf("Inserted row for %s\n", country)
+	}
 }
