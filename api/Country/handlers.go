@@ -8,19 +8,6 @@ import (
 	"net/http"
 )
 
-var countries = []string{
-	"Ecuador",
-	"Colombia",
-	"Unite Estates",
-	"Sweden",
-	"Unite Kingdom",
-}
-
-type Country struct {
-	Id   int    `json:"id"`
-	Name string `json:"name"`
-}
-
 func GetCountries(c *gin.Context, db *sql.DB) {
 	rows, err := db.Query("SELECT * FROM pais")
 	if err != nil {
