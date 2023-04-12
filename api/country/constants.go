@@ -1,4 +1,4 @@
-package Country
+package country
 
 var countries = []string{
 	"Ecuador",

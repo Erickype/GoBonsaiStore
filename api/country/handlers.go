@@ -1,4 +1,4 @@
-package Country
+package country
 
 import (
 	"database/sql"
@@ -34,10 +34,14 @@ func GetCountries(c *gin.Context, db *sql.DB) {
 		log.Fatal(err)
 	}
 
-	c.IndentedJSON(http.StatusOK, countries)
+	if countries != nil {
+		c.JSON(http.StatusOK, countries)
+	}
+
+	c.Status(http.StatusNoContent)
 }
 
-func GenerateCountries(_ *gin.Context, db *sql.DB) {
+func GenerateCountries(c *gin.Context, db *sql.DB) {
 	for _, country := range countries {
 		_, err := db.Exec("INSERT INTO pais (nombre) VALUES ($1)", country)
 		if err != nil {
@@ -45,4 +49,16 @@ func GenerateCountries(_ *gin.Context, db *sql.DB) {
 		}
 		fmt.Printf("Inserted row for %s\n", country)
 	}
+	response := Response{Status: "ok"}
+	c.JSON(http.StatusOK, response)
+}
+
+func DeleteCountries(c *gin.Context, db *sql.DB) {
+	_, err := db.Exec("delete from pais")
+	if err != nil {
+		panic(err)
+	}
+	fmt.Printf("Countries deleted")
+	response := Response{Status: "ok"}
+	c.JSON(http.StatusOK, response)
 }
