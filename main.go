@@ -2,6 +2,7 @@ package main
 
 import (
 	"BonsaiStore/api/country"
+	"BonsaiStore/api/product"
 	"database/sql"
 	"github.com/gin-gonic/gin"
 	_ "github.com/lib/pq"
@@ -24,6 +25,7 @@ func main() {
 	router := gin.Default()
 
 	country.Routes(router, db)
+	product.Routes(router, db)
 
 	err = router.Run()
 	if err != nil {
