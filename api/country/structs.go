@@ -1,4 +1,4 @@
-package Country
+package country
 
 type Country struct {
 	Id   int    `json:"id"`
