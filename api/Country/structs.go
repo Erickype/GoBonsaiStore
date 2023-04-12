@@ -4,3 +4,7 @@ type Country struct {
 	Id   int    `json:"id"`
 	Name string `json:"name"`
 }
+
+type Response struct {
+	Status string `json:"status"`
+}
