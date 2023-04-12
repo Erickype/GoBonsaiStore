@@ -6,7 +6,7 @@ import (
 )
 
 func Routes(router *gin.Engine, db *sql.DB) {
-	router.GET("/supplier/generate", func(context *gin.Context) {
+	router.GET("/suppliers/generate", func(context *gin.Context) {
 		GenerateSuppliers(context, db)
 	})
 	router.GET("/suppliers/delete", func(context *gin.Context) {
