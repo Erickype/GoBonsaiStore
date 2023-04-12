@@ -7,6 +7,7 @@ func NewRandomValue(upper int) int {
 	return randomValue
 }
 
-func RandomIndex(vector []int) int {
-	return rand.Intn(len(vector))
+func RandomIndexValue(vector []int) int {
+	i := rand.Intn(len(vector))
+	return vector[i]
 }
