@@ -8,3 +8,7 @@ var firstNames = []string{
 var lastNames = []string{
 	"Smith", "Johnson", "Williams", "Brown", "Jones", "Miller", "Davis", "Garcia", "Rodriguez", "Martinez", "Hernandez", "Lopez", "Gonzalez", "Perez", "Taylor", "Anderson", "Wilson", "Moore", "Jackson", "Martin", "Lee", "Lewis", "Hall", "Allen", "Young", "King", "Wright", "Scott", "Green", "Baker", "Adams", "Nelson", "Carter", "Mitchell", "Perez", "Roberts", "Turner", "Phillips", "Campbell", "Parker", "Evans", "Edwards", "Collins", "Stewart", "Sanchez", "Morris", "Rogers", "Reed", "Cook", "Morgan", "Bell", "Cooper", "Bailey", "Rivera", "Reyes", "Gutierrez", "Ortiz", "Murray", "Freeman", "Wells", "Webb", "Simpson", "Stevens", "Tucker", "Porter", "Hunter", "Hicks", "Crawford", "Henry", "Boyd", "Mason", "Morales", "Kennedy",
 }
+
+var emailProviders = []string{
+	"@hotmail.com", "@yahoo.es", "@outlook.com", "@gmail.com",
+}

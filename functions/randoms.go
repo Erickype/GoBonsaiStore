@@ -18,6 +18,11 @@ func RandomIndexValue(vector []int) int {
 	return vector[i]
 }
 
+func RandomIndexString(vector []string) string {
+	i := rand.Intn(len(vector))
+	return vector[i]
+}
+
 func RandomPhoneWithId(id int) string {
 	rand.NewSource(time.Now().UnixNano())
 	phoneNumber := strconv.Itoa(id)
