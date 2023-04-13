@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/google/uuid"
 	"math/rand"
+	"strconv"
 	"time"
 )
 
@@ -19,7 +20,7 @@ func RandomIndexValue(vector []int) int {
 
 func RandomPhoneWithId(id int) string {
 	rand.NewSource(time.Now().UnixNano())
-	phoneNumber := string(rune(id))
+	phoneNumber := strconv.Itoa(id)
 
 	for i := 0; i < 9; i++ {
 		digit := rand.Intn(10)
