@@ -7,7 +7,3 @@ type Supplier struct {
 	Contact   string `json:"contact"`
 	Address   string `json:"address"`
 }
-
-type Response struct {
-	Status string `json:"status"`
-}

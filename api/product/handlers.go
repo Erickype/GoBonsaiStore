@@ -3,6 +3,7 @@ package product
 import (
 	"BonsaiStore/functions"
 	"BonsaiStore/generators"
+	"BonsaiStore/structs"
 	"database/sql"
 	"fmt"
 	"github.com/gin-gonic/gin"
@@ -22,7 +23,7 @@ func GenerateBonsaiProducts(c *gin.Context, db *sql.DB) {
 			panic(err)
 		}
 	}
-	response := Response{Status: "ok"}
+	response := structs.Response{Status: "ok"}
 	c.JSON(http.StatusOK, response)
 }
 
@@ -32,6 +33,6 @@ func DeleteBonsaiProducts(c *gin.Context, db *sql.DB) {
 		panic(err)
 	}
 	fmt.Printf("BonsaiProducts deleted")
-	response := Response{Status: "ok"}
+	response := structs.Response{Status: "ok"}
 	c.JSON(http.StatusOK, response)
 }
