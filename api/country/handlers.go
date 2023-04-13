@@ -1,6 +1,7 @@
 package country
 
 import (
+	"BonsaiStore/structs"
 	"database/sql"
 	"fmt"
 	"github.com/gin-gonic/gin"
@@ -49,7 +50,7 @@ func GenerateCountries(c *gin.Context, db *sql.DB) {
 		}
 		fmt.Printf("Inserted row for %s\n", country)
 	}
-	response := Response{Status: "ok"}
+	response := structs.Response{Status: "ok"}
 	c.JSON(http.StatusOK, response)
 }
 
@@ -59,6 +60,6 @@ func DeleteCountries(c *gin.Context, db *sql.DB) {
 		panic(err)
 	}
 	fmt.Printf("Countries deleted")
-	response := Response{Status: "ok"}
+	response := structs.Response{Status: "ok"}
 	c.JSON(http.StatusOK, response)
 }

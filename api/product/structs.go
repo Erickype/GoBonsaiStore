@@ -6,7 +6,3 @@ type Product struct {
 	Name              string `json:"name"`
 	ManufacturingDate string `json:"manufacturingDate"`
 }
-
-type Response struct {
-	Status string `json:"status"`
-}

@@ -2,7 +2,7 @@ package product
 
 import (
 	"BonsaiStore/functions"
-	"BonsaiStore/generators"
+	"BonsaiStore/structs"
 	"database/sql"
 	"fmt"
 	"github.com/gin-gonic/gin"
@@ -14,15 +14,15 @@ func GenerateBonsaiProducts(c *gin.Context, db *sql.DB) {
 	nProducts := functions.NewRandomValue(500)
 	query := "insert into producto (categoria_id, nombre, fecha_fabricacion)  values ($1, $2,$3)"
 	for i := 0; i < nProducts; i++ {
-		name := generators.GenerateRandomName()
+		name := functions.RandomFancyName()
 		catId := functions.RandomIndexValue(bonsaiCategories)
-		date := functions.GenerateDateRange().Format("2006-01-02 15:04:05.999999-07:00")
+		date := functions.GenerateDateInRange(1980, 2020)
 		_, err := db.Exec(query, catId, name, date)
 		if err != nil {
 			panic(err)
 		}
 	}
-	response := Response{Status: "ok"}
+	response := structs.Response{Status: "ok"}
 	c.JSON(http.StatusOK, response)
 }
 
@@ -32,6 +32,6 @@ func DeleteBonsaiProducts(c *gin.Context, db *sql.DB) {
 		panic(err)
 	}
 	fmt.Printf("BonsaiProducts deleted")
-	response := Response{Status: "ok"}
+	response := structs.Response{Status: "ok"}
 	c.JSON(http.StatusOK, response)
 }

@@ -3,7 +3,7 @@ package supplier
 import (
 	"BonsaiStore/api/country"
 	"BonsaiStore/functions"
-	"BonsaiStore/generators"
+	"BonsaiStore/structs"
 	"database/sql"
 	"github.com/gin-gonic/gin"
 	"net/http"
@@ -16,7 +16,7 @@ func GenerateSuppliers(c *gin.Context, db *sql.DB) {
 
 	for i := 0; i < nSuppliers; i++ {
 		countryId := functions.RandomIndexValue(countriesId)
-		name := generators.GenerateRandomName()
+		name := functions.RandomFancyName()
 		contact := functions.RandomPhoneWithId(countryId)
 		address := functions.RandomAddress()
 
@@ -26,7 +26,7 @@ func GenerateSuppliers(c *gin.Context, db *sql.DB) {
 		}
 	}
 
-	response := Response{Status: "Suppliers generated"}
+	response := structs.Response{Status: "Suppliers generated"}
 	c.JSON(http.StatusOK, response)
 }
 
@@ -35,6 +35,6 @@ func DeleteSuppliers(c *gin.Context, db *sql.DB) {
 	if err != nil {
 		panic(err)
 	}
-	response := Response{Status: "Suppliers deleted"}
+	response := structs.Response{Status: "Suppliers deleted"}
 	c.JSON(http.StatusOK, response)
 }
