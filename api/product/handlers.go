@@ -2,7 +2,6 @@ package product
 
 import (
 	"BonsaiStore/functions"
-	"BonsaiStore/generators"
 	"BonsaiStore/structs"
 	"database/sql"
 	"fmt"
@@ -15,7 +14,7 @@ func GenerateBonsaiProducts(c *gin.Context, db *sql.DB) {
 	nProducts := functions.NewRandomValue(500)
 	query := "insert into producto (categoria_id, nombre, fecha_fabricacion)  values ($1, $2,$3)"
 	for i := 0; i < nProducts; i++ {
-		name := generators.GenerateRandomName()
+		name := functions.RandomFancyName()
 		catId := functions.RandomIndexValue(bonsaiCategories)
 		date := functions.GenerateDateRange().Format("2006-01-02 15:04:05.999999-07:00")
 		_, err := db.Exec(query, catId, name, date)

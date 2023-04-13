@@ -3,7 +3,6 @@ package supplier
 import (
 	"BonsaiStore/api/country"
 	"BonsaiStore/functions"
-	"BonsaiStore/generators"
 	"BonsaiStore/structs"
 	"database/sql"
 	"github.com/gin-gonic/gin"
@@ -17,7 +16,7 @@ func GenerateSuppliers(c *gin.Context, db *sql.DB) {
 
 	for i := 0; i < nSuppliers; i++ {
 		countryId := functions.RandomIndexValue(countriesId)
-		name := generators.GenerateRandomName()
+		name := functions.RandomFancyName()
 		contact := functions.RandomPhoneWithId(countryId)
 		address := functions.RandomAddress()
 

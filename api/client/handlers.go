@@ -1,6 +1,7 @@
 package client
 
 import (
+	"BonsaiStore/functions"
 	"BonsaiStore/structs"
 	"database/sql"
 	"github.com/gin-gonic/gin"
@@ -8,7 +9,9 @@ import (
 )
 
 func GenerateClients(c *gin.Context, _ *sql.DB) {
-	response := structs.Response{Status: "Clients generated"}
+	firstname, lastname, sex := functions.RandomPersonName()
+	name := firstname + " " + lastname + " " + sex
+	response := structs.Response{Status: "Clients generated " + name}
 	c.JSON(http.StatusOK, response)
 }
 
