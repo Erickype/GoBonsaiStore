@@ -1,0 +1,22 @@
+package client
+
+import (
+	"BonsaiStore/structs"
+	"database/sql"
+	"github.com/gin-gonic/gin"
+	"net/http"
+)
+
+func GenerateClients(c *gin.Context, _ *sql.DB) {
+	response := structs.Response{Status: "Clients generated"}
+	c.JSON(http.StatusOK, response)
+}
+
+func DeleteClients(c *gin.Context, db *sql.DB) {
+	_, err := db.Exec("delete from cliente")
+	if err != nil {
+		panic(err)
+	}
+	response := structs.Response{Status: "Clients deleted"}
+	c.JSON(http.StatusOK, response)
+}
