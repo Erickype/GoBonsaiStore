@@ -16,7 +16,7 @@ func GenerateBonsaiProducts(c *gin.Context, db *sql.DB) {
 	for i := 0; i < nProducts; i++ {
 		name := functions.RandomFancyName()
 		catId := functions.RandomIndexValue(bonsaiCategories)
-		date := functions.GenerateDateRange().Format("2006-01-02 15:04:05.999999-07:00")
+		date := functions.GenerateDateInRange(1980, 2020)
 		_, err := db.Exec(query, catId, name, date)
 		if err != nil {
 			panic(err)
