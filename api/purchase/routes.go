@@ -12,4 +12,7 @@ func Routes(router *gin.Engine, db *sql.DB) {
 	router.GET("/purchases/delete", func(context *gin.Context) {
 		DeletePurchases(context, db)
 	})
+	router.GET("/purchases/details/generate", func(context *gin.Context) {
+		GeneratePurchasesDetails(context, db)
+	})
 }
