@@ -1,6 +1,7 @@
 package purchase
 
 import (
+	"BonsaiStore/api/product"
 	"BonsaiStore/api/supplier"
 	"BonsaiStore/functions"
 	"BonsaiStore/structs"
@@ -26,6 +27,33 @@ func GeneratePurchases(c *gin.Context, db *sql.DB) {
 	}
 
 	message := fmt.Sprintf("Purchases generated: %d", nPurchases)
+	response := structs.Response{Status: message}
+	c.JSON(http.StatusOK, response)
+}
+
+func GeneratePurchasesDetails(c *gin.Context, db *sql.DB) {
+	nPurchases := functions.NewRandomValue(Count(db))
+	purchaseIds := GetIds(db)
+	productIds := product.GetIds(db)
+
+	query := "insert into compra_detalle (producto_id, compra_id, proveedor_id, cantidad_producto, precio_producto) values($1,$2,$3,$4,$5)"
+
+	for i := 0; i < nPurchases; i++ {
+		nProducts := functions.NewRandomValue(5)
+		purchaseId := functions.RandomIndexValue(purchaseIds)
+		purchase := purchaseById(db, purchaseId)
+
+		for j := 0; j < nProducts; j++ {
+			productId := functions.RandomIndexValue(productIds)
+			detail := generatePurchaseDetail(db, purchase, productId)
+			_, err := db.Exec(query, detail.ProductId, detail.PurchaseId, detail.SupplierId, detail.ProductQuantity, detail.ProductPrice)
+			if err != nil {
+				panic(err)
+			}
+		}
+	}
+
+	message := fmt.Sprintf("Purchases canceled: %d", nPurchases)
 	response := structs.Response{Status: message}
 	c.JSON(http.StatusOK, response)
 }
