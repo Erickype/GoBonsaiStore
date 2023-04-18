@@ -67,7 +67,7 @@ func generatePurchaseDetail(db *sql.DB, purchase *Purchase, productId int) *Deta
 	price := product.GeneratePrice(db, productId)
 	detail.ProductPrice = price
 
-	quantity := functions.NewRandomValue(11)
+	quantity := functions.NewRandomValue(10) + 1
 	detail.ProductQuantity = quantity
 
 	return detail
