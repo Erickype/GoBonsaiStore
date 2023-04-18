@@ -39,7 +39,8 @@ func GeneratePurchasesDetails(c *gin.Context, db *sql.DB) {
 	query := "insert into compra_detalle (producto_id, compra_id, proveedor_id, cantidad_producto, precio_producto) values($1,$2,$3,$4,$5)"
 
 	for i := 0; i < nPurchases; i++ {
-		nProducts := functions.NewRandomValue(5)
+		nProducts := functions.NewRandomValue(5) + 1
+
 		purchaseId := functions.RandomIndexValue(purchaseIds)
 		purchase := purchaseById(db, purchaseId)
 
@@ -53,7 +54,23 @@ func GeneratePurchasesDetails(c *gin.Context, db *sql.DB) {
 		}
 	}
 
-	message := fmt.Sprintf("Purchases canceled: %d", nPurchases)
+	message := fmt.Sprintf("Purchases details generated: %d", nPurchases)
+	response := structs.Response{Status: message}
+	c.JSON(http.StatusOK, response)
+}
+
+func DeletePurchasesDetails(c *gin.Context, db *sql.DB) {
+	exec, err := db.Exec("delete from compra_detalle")
+	if err != nil {
+		panic(err)
+	}
+
+	affected, err := exec.RowsAffected()
+	if err != nil {
+		panic(err)
+	}
+
+	message := fmt.Sprintf("Purchases deleted: %d", affected)
 	response := structs.Response{Status: message}
 	c.JSON(http.StatusOK, response)
 }
@@ -69,7 +86,7 @@ func DeletePurchases(c *gin.Context, db *sql.DB) {
 		panic(err)
 	}
 
-	message := fmt.Sprintf("Purchases deleted: %d", affected)
+	message := fmt.Sprintf("Purchases details deleted: %d", affected)
 	response := structs.Response{Status: message}
 	c.JSON(http.StatusOK, response)
 }
