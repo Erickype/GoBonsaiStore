@@ -2,7 +2,6 @@ package purchase
 
 import (
 	"BonsaiStore/api/product"
-	"BonsaiStore/functions"
 	"database/sql"
 	"log"
 )
@@ -64,10 +63,9 @@ func generatePurchaseDetail(db *sql.DB, purchase *Purchase, productId int) *Deta
 		SupplierId: purchase.SupplierId,
 	}
 
-	price := product.GeneratePrice(db, productId)
+	price, quantity := product.GeneratePriceQuantity(db, productId)
 	detail.ProductPrice = price
 
-	quantity := functions.NewRandomValue(10) + 1
 	detail.ProductQuantity = quantity
 
 	return detail

@@ -70,7 +70,7 @@ func DeletePurchasesDetails(c *gin.Context, db *sql.DB) {
 		panic(err)
 	}
 
-	message := fmt.Sprintf("Purchases deleted: %d", affected)
+	message := fmt.Sprintf("Purchases details deleted: %d", affected)
 	response := structs.Response{Status: message}
 	c.JSON(http.StatusOK, response)
 }
@@ -86,7 +86,7 @@ func DeletePurchases(c *gin.Context, db *sql.DB) {
 		panic(err)
 	}
 
-	message := fmt.Sprintf("Purchases details deleted: %d", affected)
+	message := fmt.Sprintf("Purchases deleted: %d", affected)
 	response := structs.Response{Status: message}
 	c.JSON(http.StatusOK, response)
 }
