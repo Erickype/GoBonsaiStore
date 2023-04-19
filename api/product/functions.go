@@ -2,6 +2,7 @@ package product
 
 import (
 	"BonsaiStore/api/category"
+	"BonsaiStore/functions"
 	"database/sql"
 	"log"
 )
@@ -90,25 +91,35 @@ func AgeInYears(db *sql.DB, productId int) int {
 	return age
 }
 
-func GeneratePrice(db *sql.DB, productId int) float64 {
+func GeneratePriceQuantity(db *sql.DB, productId int) (float64, int) {
 	var price float64
+	var quantity int
 	product := GetById(db, productId)
 	fatherCategory := category.GetIdFromChild(db, product.CategoryId)
 	switch fatherCategory {
 	case 1:
+		quantity = functions.NewRandomValue(10) + 1
 		age := AgeInYears(db, productId)
 		basePrice := prices[1]
 		price = float64(age) * basePrice
 		break
 	case 12:
+		quantity = functions.NewRandomValue(30) + 1
 		price = prices[12]
 		break
 	case 13:
+		quantity = functions.NewRandomValue(10) + 1
 		price = prices[13]
 	case 14:
-		age := AgeInYears(db, productId)
+		var age int
 		basePrice := prices[1]
-		price = float64(age) * basePrice
+		quantity = functions.NewRandomValue(10) + 1
+		if product.CategoryId == 33 {
+			age = AgeInYears(db, productId)
+			price = float64(age) * basePrice
+		} else {
+			price = basePrice
+		}
 	}
-	return price
+	return price, quantity
 }
