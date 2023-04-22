@@ -2,6 +2,7 @@ package sale
 
 import (
 	"BonsaiStore/api/client"
+	"BonsaiStore/api/inventory"
 	"BonsaiStore/functions"
 	"BonsaiStore/structs"
 	"database/sql"
@@ -30,9 +31,30 @@ func GenerateSales(c *gin.Context, db *sql.DB) {
 	c.JSON(http.StatusOK, response)
 }
 
-func GenerateSalesDetails(c *gin.Context, _ *sql.DB) {
-	nPurchases := functions.NewRandomValue(1)
-	message := fmt.Sprintf("Sales details generated: %d", nPurchases)
+func GenerateSalesDetails(c *gin.Context, db *sql.DB) {
+	query := "insert into venta_detalle (producto_id, venta_id, cantidad_producto) values($1,$2,$3)"
+	nSales := functions.NewRandomValue(Count(db))
+	productIds := inventory.GetProductsIds(db)
+	salesIds := GetIds(db)
+
+	nDetails := 0
+
+	for i := 0; i < nSales; i++ {
+		saleId := functions.RandomIndexValue(salesIds)
+		nProducts := functions.NewRandomValue(5) + 1
+		nDetails += nProducts
+		for j := 0; j < nProducts; j++ {
+			productId := functions.RandomIndexValue(productIds)
+			detail := generateDetail(db, productId, saleId)
+
+			_, err := db.Exec(query, detail.ProductId, detail.SaleId, detail.ProductQuantity)
+			if err != nil {
+				panic(err)
+			}
+		}
+	}
+
+	message := fmt.Sprintf("Sales details generated: %d", nDetails)
 	response := structs.Response{Status: message}
 	c.JSON(http.StatusOK, response)
 }
