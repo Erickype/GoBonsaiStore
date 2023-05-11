@@ -1,0 +1,532 @@
+nombre_cliente,apellido_cliente,nombre_pais,nombre_subcategoria,descripcion_subcategoria,nombre_producto,fecha_fabricacion,descripcion_producto,fecha,cantidad_producto,precio_unitario,iva_cobrado,subtotal,total
+Santiago,Reed,Colombia,Shakan,Se trata de un estilo de bonsái en el que el tronco se inclina en un ángulo agudo,black-sea,2005-11-17,Bonsai,2012-11-27,7,205.51,172.63,1438.57,1611.20
+Stella,Webb,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,lingering-feather,2020-11-26,Herramientas,2018-05-15,4,9.63,4.62,38.52,43.14
+Stella,Webb,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,billowing-glitter,2020-02-22,Herramientas,2018-05-15,5,9.63,5.78,48.15,53.93
+Stella,Webb,Sweden,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,bold-haze,2020-07-10,Herramientas,2018-05-15,4,9.63,4.62,38.52,43.14
+Asher,Roberts,Colombia,Vermiculita,Es un sustrato similar a la perlita,aged-leaf,2020-07-10,Sustrato,2003-07-14,5,6.04,3.62,30.20,33.82
+David,Crawford,Sweden,Kiryuzuna,También conocido como arena de río,shy-sea,2020-03-07,Sustrato,2015-12-04,4,6.04,2.90,24.16,27.06
+Carter,Nelson,Colombia,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,misty-butterfly,2021-06-20,Sustrato,2011-05-02,5,6.04,3.62,30.20,33.82
+Carter,Nelson,Colombia,Kiryuzuna,También conocido como arena de río,polished-resonance,2020-11-20,Sustrato,2011-05-02,5,6.04,3.62,30.20,33.82
+Carter,Nelson,Colombia,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,dry-paper,2021-04-15,Macetas,2011-05-02,2,12.09,2.90,24.18,27.08
+Carter,Nelson,Colombia,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,ancient-smoke,2021-08-23,Macetas,2011-05-02,4,12.09,5.80,48.36,54.16
+Zachary,Wilson,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,ancient-shadow,1981-03-18,Macetas,2004-11-12,4,507.74,243.72,2030.96,2274.68
+Zachary,Wilson,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,bold-feather,1988-11-24,Macetas,2004-11-12,1,411.03,49.32,411.03,460.35
+Zachary,Wilson,Unite Estates,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,summer-star,2020-05-31,Macetas,2004-11-12,4,12.09,5.80,48.36,54.16
+Ryan,Baker,Ecuador,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,autumn-firefly,2021-04-26,Macetas,2007-05-24,4,12.09,5.80,48.36,54.16
+Ryan,Baker,Ecuador,Ishitsuki,Se refiere a un estilo de bonsái en el que el árbol se cultiva en una roca,late-sun,2002-03-04,Bonsai,2007-05-24,5,253.87,152.32,1269.35,1421.67
+Ryan,Baker,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,divine-resonance,2020-07-19,Herramientas,2007-05-24,5,9.63,5.78,48.15,53.93
+Ryan,Baker,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,fragrant-wave,2020-04-20,Herramientas,2007-05-24,5,9.63,5.78,48.15,53.93
+Daniel,Carter,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,autumn-surf,2020-02-01,Herramientas,2019-04-01,5,9.63,5.78,48.15,53.93
+Daniel,Carter,Colombia,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,sparkling-dream,2020-02-21,Macetas,2019-04-01,3,12.09,4.35,36.27,40.62
+Camila,Young,Unite Estates,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,wandering-resonance,2021-06-05,Herramientas,2020-01-10,5,9.63,5.78,48.15,53.93
+Camila,Young,Unite Estates,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,misty-feather,2021-09-11,Sustrato,2020-01-10,1,6.04,0.72,6.04,6.76
+Camila,Young,Unite Estates,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,twilight-wood,2020-03-17,Macetas,2020-01-10,4,12.09,5.80,48.36,54.16
+Camila,Young,Unite Estates,Vermiculita,Es un sustrato similar a la perlita,dry-tree,2020-10-11,Sustrato,2020-01-10,5,6.04,3.62,30.20,33.82
+Camila,Young,Unite Estates,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,floral-forest,2021-01-08,Macetas,2020-01-10,3,12.09,4.35,36.27,40.62
+Evelyn,Cooper,Ecuador,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,little-forest,1989-10-31,Macetas,2020-06-20,1,398.94,47.87,398.94,446.81
+Evelyn,Cooper,Ecuador,Vermiculita,Es un sustrato similar a la perlita,dry-tree,2020-10-11,Sustrato,2020-06-20,3,6.04,2.17,18.12,20.29
+Evelyn,Cooper,Ecuador,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,aged-waterfall,2021-01-22,Herramientas,2020-06-20,5,9.63,5.78,48.15,53.93
+Evelyn,Cooper,Ecuador,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wandering-wildflower,2021-10-23,Macetas,2020-06-20,3,12.09,4.35,36.27,40.62
+Evelyn,Cooper,Ecuador,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,damp-dust,2021-07-26,Macetas,2020-06-20,5,12.09,7.25,60.45,67.70
+Noah,Boyd,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,dawn-flower,2021-01-03,Herramientas,2014-10-23,5,9.63,5.78,48.15,53.93
+Noah,Boyd,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,delicate-glitter,2021-10-13,Herramientas,2014-10-23,5,9.63,5.78,48.15,53.93
+Noah,Boyd,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,summer-surf,2020-12-14,Herramientas,2014-10-23,5,9.63,5.78,48.15,53.93
+Noah,Boyd,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,solitary-meadow,2021-09-06,Herramientas,2014-10-23,3,9.63,3.47,28.89,32.36
+Noah,Boyd,Ecuador,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,bold-dream,2021-08-28,Macetas,2014-10-23,1,12.09,1.45,12.09,13.54
+Christian,Mitchell,Colombia,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,falling-butterfly,2020-04-30,Macetas,2013-05-02,2,12.09,2.90,24.18,27.08
+Christian,Mitchell,Colombia,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,lingering-rain,2021-01-14,Sustrato,2013-05-02,4,6.04,2.90,24.16,27.06
+Christian,Mitchell,Colombia,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,crimson-tree,2020-04-12,Macetas,2013-05-02,2,12.09,2.90,24.18,27.08
+Leo,Sanchez,Colombia,Kiryuzuna,También conocido como arena de río,old-glade,2021-02-18,Sustrato,2011-04-30,4,6.04,2.90,24.16,27.06
+Leo,Sanchez,Colombia,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,white-sound,2021-10-06,Sustrato,2011-04-30,4,6.04,2.90,24.16,27.06
+Leo,Sanchez,Colombia,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,sparkling-firefly,1987-09-10,Macetas,2011-04-30,2,423.12,101.55,846.24,947.79
+Christopher,Brown,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,summer-flower,2020-10-08,Herramientas,2005-04-30,5,9.63,5.78,48.15,53.93
+Christopher,Brown,Colombia,Sierra,se utilizan para cortar ramas gruesas de un bonsái,wild-voice,2020-10-08,Herramientas,2005-04-30,1,9.63,1.16,9.63,10.79
+Christopher,Brown,Colombia,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,ancient-bird,2020-10-01,Herramientas,2005-04-30,2,9.63,2.31,19.26,21.57
+Christopher,Brown,Colombia,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,cold-meadow,2020-09-16,Sustrato,2005-04-30,4,6.04,2.90,24.16,27.06
+Christopher,Brown,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,small-star,2020-07-14,Herramientas,2005-04-30,1,9.63,1.16,9.63,10.79
+Caleb,Gonzalez,Sweden,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,rough-fog,2020-08-14,Sustrato,2009-10-23,2,6.04,1.45,12.08,13.53
+Caleb,Gonzalez,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,silent-sunset,2021-01-24,Herramientas,2009-10-23,4,9.63,4.62,38.52,43.14
+Caleb,Gonzalez,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,white-rain,2020-04-25,Macetas,2009-10-23,5,12.09,7.25,60.45,67.70
+Caleb,Gonzalez,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,long-sun,2021-11-19,Macetas,2009-10-23,1,12.09,1.45,12.09,13.54
+Riley,Williams,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,lively-fog,2020-08-20,Herramientas,2015-05-31,1,9.63,1.16,9.63,10.79
+Riley,Williams,Unite Kingdom,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,lingering-flower,2021-01-14,Sustrato,2015-05-31,4,6.04,2.90,24.16,27.06
+Riley,Williams,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,misty-feather,2021-09-11,Sustrato,2015-05-31,4,6.04,2.90,24.16,27.06
+Riley,Williams,Unite Kingdom,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,proud-mountain,2021-02-14,Herramientas,2015-05-31,2,9.63,2.31,19.26,21.57
+Liam,Hunter,Ecuador,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,bold-mountain,2020-10-06,Sustrato,2021-10-24,1,6.04,0.72,6.04,6.76
+Liam,Hunter,Ecuador,Kiryuzuna,También conocido como arena de río,twilight-water,2021-03-07,Sustrato,2021-10-24,3,6.04,2.17,18.12,20.29
+Zoey,Boyd,Sweden,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,misty-brook,2020-08-16,Sustrato,2001-06-16,2,6.04,1.45,12.08,13.53
+Gabriel,Baker,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,frosty-frog,2020-10-29,Macetas,2018-09-04,1,12.09,1.45,12.09,13.54
+Gabriel,Baker,Sweden,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,winter-waterfall,2021-04-28,Macetas,2018-09-04,1,12.09,1.45,12.09,13.54
+Gabriel,Baker,Sweden,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,restless-sunset,2021-08-20,Sustrato,2018-09-04,3,6.04,2.17,18.12,20.29
+Gabriel,Baker,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,long-butterfly,2021-01-17,Herramientas,2018-09-04,2,9.63,2.31,19.26,21.57
+Gabriel,Baker,Sweden,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,restless-sunset,2021-08-20,Sustrato,2018-09-04,3,6.04,2.17,18.12,20.29
+Grace,Perez,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,holy-wood,2021-03-08,Macetas,2020-10-17,1,12.09,1.45,12.09,13.54
+Grace,Perez,Ecuador,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,icy-shadow,2021-08-17,Herramientas,2020-10-17,5,9.63,5.78,48.15,53.93
+Grace,Perez,Ecuador,Vermiculita,Es un sustrato similar a la perlita,aged-leaf,2020-07-10,Sustrato,2020-10-17,1,6.04,0.72,6.04,6.76
+Adrian,Cook,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,cool-glitter,2020-05-23,Macetas,2013-06-05,1,12.09,1.45,12.09,13.54
+Adrian,Cook,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,divine-resonance,2020-07-19,Herramientas,2013-06-05,3,9.63,3.47,28.89,32.36
+Adrian,Cook,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,proud-fire,2021-08-15,Herramientas,2013-06-05,5,9.63,5.78,48.15,53.93
+Adrian,Cook,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,withered-meadow,2021-03-26,Herramientas,2013-06-05,4,9.63,4.62,38.52,43.14
+Grayson,Smith,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,twilight-wood,2020-08-09,Herramientas,2001-06-15,4,9.63,4.62,38.52,43.14
+Grayson,Smith,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,lingering-water,2020-10-12,Herramientas,2001-06-15,3,9.63,3.47,28.89,32.36
+Grayson,Smith,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,withered-fog,2020-09-24,Herramientas,2001-06-15,1,9.63,1.16,9.63,10.79
+Jeremiah,Perez,Ecuador,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,young-grass,2021-06-14,Macetas,2021-12-31,1,12.09,1.45,12.09,13.54
+Jeremiah,Perez,Ecuador,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,wispy-brook,2021-06-25,Herramientas,2021-12-31,5,9.63,5.78,48.15,53.93
+Jeremiah,Perez,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,muddy-glade,2020-06-16,Herramientas,2021-12-31,3,9.63,3.47,28.89,32.36
+Jeremiah,Perez,Ecuador,Akadama,Un sustrato japonés hecho de arcilla volcánica,snowy-leaf,2020-11-12,Sustrato,2021-12-31,5,6.04,3.62,30.20,33.82
+Jeremiah,Perez,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,dark-feather,2021-07-11,Macetas,2021-12-31,5,12.09,7.25,60.45,67.70
+Isabella,Lopez,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,twilight-wood,2020-08-09,Herramientas,2007-11-08,1,9.63,1.16,9.63,10.79
+Aaliyah,Scott,Colombia,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,purple-wildflower,2020-03-11,Sustrato,2006-12-31,5,6.04,3.62,30.20,33.82
+Aaliyah,Scott,Colombia,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,purple-wildflower,2020-03-11,Sustrato,2006-12-31,1,6.04,0.72,6.04,6.76
+Aaliyah,Scott,Colombia,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,cold-forest,2020-12-23,Macetas,2006-12-31,3,12.09,4.35,36.27,40.62
+Aaliyah,Scott,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,summer-flower,2020-10-08,Herramientas,2006-12-31,2,9.63,2.31,19.26,21.57
+Aaliyah,Scott,Colombia,Akadama,Un sustrato japonés hecho de arcilla volcánica,proud-bush,2020-03-13,Sustrato,2006-12-31,1,6.04,0.72,6.04,6.76
+Grayson,Smith,Unite Kingdom,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,purple-leaf,2021-06-14,Herramientas,2005-09-20,3,9.63,3.47,28.89,32.36
+Grayson,Smith,Unite Kingdom,Kiryuzuna,También conocido como arena de río,wispy-star,2021-06-16,Sustrato,2005-09-20,3,6.04,2.17,18.12,20.29
+Grayson,Smith,Unite Kingdom,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,lingering-cherry,2020-05-06,Sustrato,2005-09-20,5,6.04,3.62,30.20,33.82
+Grayson,Smith,Unite Kingdom,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,old-water,2020-02-12,Herramientas,2005-09-20,3,9.63,3.47,28.89,32.36
+Julia,Webb,Sweden,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,young-snow,2020-06-26,Herramientas,2001-08-05,4,9.63,4.62,38.52,43.14
+Julia,Webb,Sweden,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,delicate-mountain,2020-10-16,Sustrato,2001-08-05,4,6.04,2.90,24.16,27.06
+Julia,Webb,Sweden,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,winter-sea,2020-10-20,Sustrato,2001-08-05,4,6.04,2.90,24.16,27.06
+Julia,Webb,Sweden,Akadama,Un sustrato japonés hecho de arcilla volcánica,delicate-tree,2021-12-04,Sustrato,2001-08-05,3,6.04,2.17,18.12,20.29
+Julia,Webb,Sweden,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,summer-leaf,2020-12-06,Herramientas,2001-08-05,1,9.63,1.16,9.63,10.79
+Aiden,Parker,Ecuador,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,twilight-star,2020-03-24,Herramientas,2004-12-21,4,9.63,4.62,38.52,43.14
+Aiden,Parker,Ecuador,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,rough-moon,2020-03-10,Herramientas,2004-12-21,2,9.63,2.31,19.26,21.57
+Aiden,Parker,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,nameless-bush,2021-02-02,Herramientas,2004-12-21,4,9.63,4.62,38.52,43.14
+Aiden,Parker,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,ancient-pond,2021-04-19,Herramientas,2004-12-21,4,9.63,4.62,38.52,43.14
+Dominic,Phillips,Unite Kingdom,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,snowy-sun,2021-09-09,Herramientas,2008-10-31,4,9.63,4.62,38.52,43.14
+Dominic,Phillips,Unite Kingdom,Akadama,Un sustrato japonés hecho de arcilla volcánica,twilight-water,2020-09-24,Sustrato,2008-10-31,3,6.04,2.17,18.12,20.29
+Dominic,Phillips,Unite Kingdom,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,spring-butterfly,2021-08-30,Sustrato,2008-10-31,1,6.04,0.72,6.04,6.76
+Dominic,Phillips,Unite Kingdom,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,small-glitter,2020-10-04,Macetas,2008-10-31,5,12.09,7.25,60.45,67.70
+Dominic,Phillips,Unite Kingdom,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,damp-dust,2021-07-26,Macetas,2008-10-31,4,12.09,5.80,48.36,54.16
+Dominic,Cook,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,muddy-star,2020-11-30,Herramientas,2021-07-06,3,9.63,3.47,28.89,32.36
+Dominic,Cook,Sweden,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,dry-mountain,2020-01-04,Sustrato,2021-07-06,2,6.04,1.45,12.08,13.53
+Dominic,Cook,Sweden,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,small-thunder,2021-09-21,Sustrato,2021-07-06,5,6.04,3.62,30.20,33.82
+Dominic,Cook,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,silent-star,2020-12-19,Macetas,2021-07-06,4,12.09,5.80,48.36,54.16
+Gabriel,Brown,Unite Kingdom,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,autumn-frog,2021-07-23,Macetas,2004-10-05,2,12.09,2.90,24.18,27.08
+Gabriel,Brown,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,aged-silence,2021-09-24,Macetas,2004-10-05,4,12.09,5.80,48.36,54.16
+Gabriel,Brown,Unite Kingdom,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,lingering-wave,1997-09-21,Macetas,2004-10-05,1,302.23,36.27,302.23,338.50
+Evelyn,Gutierrez,Sweden,Vermiculita,Es un sustrato similar a la perlita,twilight-flower,2020-03-17,Sustrato,2005-10-05,5,6.04,3.62,30.20,33.82
+Evelyn,Gutierrez,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,billowing-glitter,2021-01-10,Herramientas,2005-10-05,3,9.63,3.47,28.89,32.36
+Zachary,Lewis,Colombia,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,black-moon,2021-12-14,Sustrato,2005-06-13,1,6.04,0.72,6.04,6.76
+Zachary,Lewis,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,silent-sunset,2021-01-24,Herramientas,2005-06-13,5,9.63,5.78,48.15,53.93
+Zachary,Lewis,Colombia,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wild-fog,2021-10-07,Macetas,2005-06-13,3,12.09,4.35,36.27,40.62
+Zachary,Lewis,Colombia,Vermiculita,Es un sustrato similar a la perlita,wispy-smoke,2020-12-02,Sustrato,2005-06-13,3,6.04,2.17,18.12,20.29
+Ezra,Nelson,Colombia,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,white-sound,2021-10-06,Sustrato,2005-06-15,5,6.04,3.62,30.20,33.82
+Ezra,Nelson,Colombia,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,polished-thunder,2021-10-14,Macetas,2005-06-15,4,12.09,5.80,48.36,54.16
+Ezra,Nelson,Colombia,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,wandering-star,2021-07-29,Sustrato,2005-06-15,1,6.04,0.72,6.04,6.76
+Ezra,Nelson,Colombia,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,long-breeze,2021-08-05,Herramientas,2005-06-15,2,9.63,2.31,19.26,21.57
+Ethan,Gutierrez,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,shy-brook,2021-08-25,Herramientas,2005-04-12,5,9.63,5.78,48.15,53.93
+Ethan,Gutierrez,Sweden,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,autumn-mountain,2020-10-19,Herramientas,2005-04-12,4,9.63,4.62,38.52,43.14
+Ethan,Gutierrez,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,old-rain,2021-12-26,Macetas,2005-04-12,3,12.09,4.35,36.27,40.62
+Vivienne,Bailey,Sweden,Vermiculita,Es un sustrato similar a la perlita,polished-grass,2020-10-02,Sustrato,2016-09-01,5,6.04,3.62,30.20,33.82
+Charlotte,Turner,Sweden,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,misty-silence,2021-04-09,Herramientas,2015-02-26,5,9.63,5.78,48.15,53.93
+Charlotte,Turner,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,billowing-darkness,2021-02-18,Herramientas,2015-02-26,3,9.63,3.47,28.89,32.36
+Charlotte,Turner,Sweden,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,cold-wildflower,2020-02-21,Macetas,2015-02-26,1,12.09,1.45,12.09,13.54
+Charlotte,Turner,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,fragrant-silence,2021-08-03,Macetas,2015-02-26,5,12.09,7.25,60.45,67.70
+Charlotte,Turner,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,restless-wave,2021-08-11,Macetas,2015-02-26,1,12.09,1.45,12.09,13.54
+Ryan,Baker,Ecuador,Neagari,Es un estilo de bonsái en el que el tronco está completamente expuesto en la superficie del suelo,withered-wildflower,2018-03-28,Bonsai,2021-01-21,2,60.45,14.51,120.90,135.41
+Ryan,Baker,Ecuador,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,blue-snowflake,2021-10-02,Sustrato,2021-01-21,5,6.04,3.62,30.20,33.82
+Ryan,Baker,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,rough-water,2021-11-29,Herramientas,2021-01-21,2,9.63,2.31,19.26,21.57
+Ryan,Baker,Ecuador,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,small-thunder,2021-09-21,Sustrato,2021-01-21,3,6.04,2.17,18.12,20.29
+Ryan,Baker,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,purple-snow,2020-11-09,Herramientas,2021-01-21,2,9.63,2.31,19.26,21.57
+Aurora,Davis,Ecuador,Moyogi,"Es el estilo más común de bonsái, caracterizado por un tronco recto y una corona simétrica.",withered-tree,2007-05-19,Bonsai,2007-01-15,1,181.34,21.76,181.34,203.10
+Aurora,Davis,Ecuador,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,aged-water,2020-12-03,Macetas,2007-01-15,5,12.09,7.25,60.45,67.70
+Scarlett,Bell,Ecuador,Han-Kengai,Este estilo de bonsái se caracteriza por el tronco inclinado hacia abajo,wandering-sea,2006-02-20,Bonsai,2014-10-14,5,205.51,123.31,1027.55,1150.86
+Scarlett,Bell,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,red-pond,2020-10-28,Herramientas,2014-10-14,2,9.63,2.31,19.26,21.57
+Savannah,Bailey,Unite Estates,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,polished-smoke,2020-12-26,Sustrato,2001-02-16,1,6.04,0.72,6.04,6.76
+Savannah,Bailey,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,icy-wood,1982-05-12,Macetas,2001-02-16,1,483.56,58.03,483.56,541.59
+Savannah,Bailey,Unite Estates,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,solitary-water,2020-02-16,Herramientas,2001-02-16,5,9.63,5.78,48.15,53.93
+Lila,Anderson,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,snowy-breeze,2020-05-22,Herramientas,2017-02-19,3,9.63,3.47,28.89,32.36
+Lila,Anderson,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,ancient-shadow,1981-03-18,Macetas,2017-02-19,2,507.74,121.86,1015.48,1137.34
+Lila,Anderson,Sweden,Vermiculita,Es un sustrato similar a la perlita,wispy-violet,2020-09-14,Sustrato,2017-02-19,4,6.04,2.90,24.16,27.06
+Lila,Anderson,Sweden,Akadama,Un sustrato japonés hecho de arcilla volcánica,red-lake,2021-12-02,Sustrato,2017-02-19,1,6.04,0.72,6.04,6.76
+Lila,Anderson,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,spring-cherry,1995-06-03,Macetas,2017-02-19,5,326.40,195.84,1632.00,1827.84
+Julia,Rodriguez,Sweden,Kabudachi,"Es un estilo de bonsái que se cultiva con varios troncos, lo que le da una apariencia de bosque.",dawn-glitter,1988-10-24,Bonsai,2009-03-03,1,411.03,49.32,411.03,460.35
+Julia,Rodriguez,Sweden,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,broken-sun,2020-02-03,Macetas,2009-03-03,5,12.09,7.25,60.45,67.70
+Julia,Rodriguez,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,black-river,2020-08-05,Macetas,2009-03-03,4,12.09,5.80,48.36,54.16
+Julia,Rodriguez,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,white-fire,1992-03-26,Macetas,2009-03-03,2,374.76,89.94,749.52,839.46
+Julia,Rodriguez,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,twilight-star,2020-03-24,Herramientas,2009-03-03,2,9.63,2.31,19.26,21.57
+Adam,Lee,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,twilight-wood,2020-08-09,Herramientas,2019-05-14,2,9.63,2.31,19.26,21.57
+Valentina,Cook,Unite Estates,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,solitary-flower,2020-02-26,Herramientas,2017-06-16,3,9.63,3.47,28.89,32.36
+Isabella,Webb,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,icy-glitter,2020-07-22,Herramientas,2003-08-29,4,9.63,4.62,38.52,43.14
+Isabella,Webb,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,snowy-sky,2020-03-02,Herramientas,2003-08-29,5,9.63,5.78,48.15,53.93
+Isabella,Webb,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,holy-brook,2021-09-18,Herramientas,2003-08-29,5,9.63,5.78,48.15,53.93
+Isabella,Webb,Ecuador,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,wild-bird,2020-07-13,Herramientas,2003-08-29,2,9.63,2.31,19.26,21.57
+Joshua,Miller,Unite Kingdom,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,patient-dew,2021-04-21,Sustrato,2001-10-09,4,6.04,2.90,24.16,27.06
+Joshua,Miller,Unite Kingdom,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,dark-bird,2020-11-18,Macetas,2001-10-09,3,12.09,4.35,36.27,40.62
+Nicholas,Roberts,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,long-butterfly,2021-01-17,Herramientas,2013-01-02,1,9.63,1.16,9.63,10.79
+Nicholas,Roberts,Ecuador,Kiryuzuna,También conocido como arena de río,delicate-wood,2021-02-20,Sustrato,2013-01-02,2,6.04,1.45,12.08,13.53
+Christian,Allen,Unite Estates,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,wild-star,2020-09-29,Herramientas,2016-06-26,4,9.63,4.62,38.52,43.14
+Christian,Allen,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,quiet-river,1995-06-28,Macetas,2016-06-26,1,326.40,39.17,326.40,365.57
+Jackson,Reed,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,blue-wood,2020-12-31,Herramientas,2004-07-13,1,9.63,1.16,9.63,10.79
+Jackson,Reed,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,icy-pond,2021-09-25,Herramientas,2004-07-13,2,9.63,2.31,19.26,21.57
+Olivia,Edwards,Sweden,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,billowing-glade,2021-05-27,Herramientas,2014-03-26,3,9.63,3.47,28.89,32.36
+Olivia,Edwards,Sweden,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,crimson-water,2020-10-26,Sustrato,2014-03-26,1,6.04,0.72,6.04,6.76
+Olivia,Edwards,Sweden,Moyogi,"Es el estilo más común de bonsái, caracterizado por un tronco recto y una corona simétrica.",floral-glade,2004-07-03,Bonsai,2014-03-26,1,217.60,26.11,217.60,243.71
+Elijah,Rodriguez,Colombia,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,summer-pond,2021-04-09,Herramientas,2016-04-19,3,9.63,3.47,28.89,32.36
+Elijah,Rodriguez,Colombia,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,little-glade,2020-08-20,Sustrato,2016-04-19,3,6.04,2.17,18.12,20.29
+Elijah,Rodriguez,Colombia,Akadama,Un sustrato japonés hecho de arcilla volcánica,wandering-voice,2021-07-26,Sustrato,2016-04-19,1,6.04,0.72,6.04,6.76
+Vivienne,Perez,Sweden,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,damp-rain,2020-02-02,Sustrato,2019-06-16,4,6.04,2.90,24.16,27.06
+Gabriel,Baker,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,proud-resonance,2020-05-25,Herramientas,2018-09-04,1,9.63,1.16,9.63,10.79
+Gabriel,Baker,Sweden,Fukinagashi,"Se refiere a un bonsái con ramas que se inclinan en una dirección, como si estuvieran siendo sopladas por el viento.
+",ancient-tree,2012-05-27,Bonsai,2018-09-04,3,120.89,43.52,362.67,406.19
+Gabriel,Baker,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,white-darkness,2021-01-17,Macetas,2018-09-04,4,12.09,5.80,48.36,54.16
+Gabriel,Baker,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,weathered-field,2020-06-25,Macetas,2018-09-04,5,12.09,7.25,60.45,67.70
+Gabriel,Baker,Sweden,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,falling-sea,2020-01-17,Sustrato,2018-09-04,1,6.04,0.72,6.04,6.76
+Jason,Martin,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,aged-snowflake,2021-05-12,Herramientas,2008-03-07,1,9.63,1.16,9.63,10.79
+Jason,Martin,Ecuador,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,crimson-water,2020-10-26,Sustrato,2008-03-07,3,6.04,2.17,18.12,20.29
+Jason,Martin,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,empty-bush,2021-04-07,Herramientas,2008-03-07,2,9.63,2.31,19.26,21.57
+Jason,Martin,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,restless-butterfly,2020-07-17,Herramientas,2008-03-07,1,9.63,1.16,9.63,10.79
+Jason,Martin,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,solitary-dream,2020-03-02,Herramientas,2008-03-07,3,9.63,3.47,28.89,32.36
+Ava,Wells,Unite Kingdom,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,long-sky,2020-07-03,Macetas,2004-01-14,3,12.09,4.35,36.27,40.62
+Ava,Wells,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,cold-meadow,2020-09-16,Sustrato,2004-01-14,3,6.04,2.17,18.12,20.29
+Ava,Wells,Unite Kingdom,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,falling-silence,2021-01-03,Herramientas,2004-01-14,1,9.63,1.16,9.63,10.79
+Ava,Wells,Unite Kingdom,Akadama,Un sustrato japonés hecho de arcilla volcánica,bitter-paper,2020-05-07,Sustrato,2004-01-14,2,6.04,1.45,12.08,13.53
+Stella,Edwards,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,polished-voice,2020-08-07,Herramientas,2014-01-26,5,9.63,5.78,48.15,53.93
+Stella,Edwards,Colombia,Sierra,se utilizan para cortar ramas gruesas de un bonsái,fragrant-glitter,2021-07-28,Herramientas,2014-01-26,3,9.63,3.47,28.89,32.36
+Stella,Edwards,Colombia,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,red-lake,2021-11-12,Macetas,2014-01-26,1,12.09,1.45,12.09,13.54
+Emma,Gutierrez,Sweden,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,broken-fire,2021-07-19,Herramientas,2017-11-01,4,9.63,4.62,38.52,43.14
+Valentina,Anderson,Colombia,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,dawn-sun,2020-02-26,Macetas,2018-08-24,1,12.09,1.45,12.09,13.54
+Wyatt,Nelson,Colombia,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,withered-sunset,2021-11-12,Herramientas,2019-12-16,3,9.63,3.47,28.89,32.36
+Wyatt,Nelson,Colombia,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,crimson-flower,2021-09-12,Macetas,2019-12-16,3,12.09,4.35,36.27,40.62
+Wyatt,Nelson,Colombia,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,restless-butterfly,2020-07-17,Herramientas,2019-12-16,1,9.63,1.16,9.63,10.79
+Wyatt,Nelson,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,snowy-hill,2020-07-29,Herramientas,2019-12-16,3,9.63,3.47,28.89,32.36
+Stella,Edwards,Colombia,Akadama,Un sustrato japonés hecho de arcilla volcánica,wild-meadow,2020-12-15,Sustrato,2014-01-26,2,6.04,1.45,12.08,13.53
+Michael,Taylor,Unite Kingdom,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,weathered-water,2020-11-10,Herramientas,2020-02-17,4,9.63,4.62,38.52,43.14
+Michael,Taylor,Unite Kingdom,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,morning-rain,2021-01-14,Sustrato,2020-02-17,1,6.04,0.72,6.04,6.76
+Mason,Lee,Unite Estates,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,bitter-wood,2021-01-22,Macetas,2019-02-27,4,12.09,5.80,48.36,54.16
+Mason,Lee,Unite Estates,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,young-cherry,2021-11-20,Herramientas,2019-02-27,5,9.63,5.78,48.15,53.93
+Mason,Lee,Unite Estates,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,crimson-cherry,2020-09-23,Herramientas,2019-02-27,3,9.63,3.47,28.89,32.36
+Audrey,Smith,Sweden,Vermiculita,Es un sustrato similar a la perlita,green-brook,2021-11-13,Sustrato,2020-12-27,4,6.04,2.90,24.16,27.06
+Easton,Henry,Unite Kingdom,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,aged-fog,2020-06-29,Sustrato,2006-02-10,2,6.04,1.45,12.08,13.53
+Easton,Henry,Unite Kingdom,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,bold-sunset,2020-05-09,Herramientas,2006-02-10,3,9.63,3.47,28.89,32.36
+Easton,Henry,Unite Kingdom,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,divine-feather,2020-06-06,Sustrato,2006-02-10,3,6.04,2.17,18.12,20.29
+Lucy,Lee,Ecuador,Akadama,Un sustrato japonés hecho de arcilla volcánica,wild-meadow,2020-12-15,Sustrato,2018-12-27,5,6.04,3.62,30.20,33.82
+Lucy,Lee,Ecuador,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,quiet-flower,2020-05-25,Macetas,2018-12-27,2,12.09,2.90,24.18,27.08
+Lucy,Lee,Ecuador,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,withered-sunset,2021-11-12,Herramientas,2018-12-27,4,9.63,4.62,38.52,43.14
+Caleb,Hunter,Ecuador,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,rough-fog,2020-08-14,Sustrato,2014-11-23,4,6.04,2.90,24.16,27.06
+Caleb,Hunter,Ecuador,Akadama,Un sustrato japonés hecho de arcilla volcánica,spring-flower,2020-07-28,Sustrato,2014-11-23,4,6.04,2.90,24.16,27.06
+Caleb,Hunter,Ecuador,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,wispy-lake,2021-08-01,Herramientas,2014-11-23,2,9.63,2.31,19.26,21.57
+Caleb,Hunter,Ecuador,Kiryuzuna,También conocido como arena de río,hidden-shadow,2020-04-16,Sustrato,2014-11-23,5,6.04,3.62,30.20,33.82
+Caleb,Hunter,Ecuador,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,autumn-mountain,2020-10-19,Herramientas,2014-11-23,2,9.63,2.31,19.26,21.57
+David,Crawford,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,nameless-water,2021-11-02,Macetas,2015-12-04,2,12.09,2.90,24.18,27.08
+David,Crawford,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,wispy-feather,2021-01-16,Herramientas,2015-12-04,2,9.63,2.31,19.26,21.57
+Gemma,Carter,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,withered-meadow,2021-03-26,Herramientas,2016-12-15,2,9.63,2.31,19.26,21.57
+Gemma,Carter,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,broken-violet,2021-11-11,Macetas,2016-12-15,1,12.09,1.45,12.09,13.54
+Isaac,Perez,Unite Kingdom,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,floral-surf,2020-12-22,Macetas,2017-08-04,2,12.09,2.90,24.18,27.08
+Isaac,Perez,Unite Kingdom,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,weathered-water,2020-11-10,Herramientas,2017-08-04,3,9.63,3.47,28.89,32.36
+Mason,Lee,Unite Estates,Sierra,se utilizan para cortar ramas gruesas de un bonsái,hidden-violet,2021-12-09,Herramientas,2008-10-30,2,9.63,2.31,19.26,21.57
+Mason,Lee,Unite Estates,Kiryuzuna,También conocido como arena de río,old-leaf,2021-05-24,Sustrato,2008-10-30,1,6.04,0.72,6.04,6.76
+Grace,Hicks,Colombia,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,empty-resonance,2020-04-05,Herramientas,2013-10-30,4,9.63,4.62,38.52,43.14
+Grace,Hicks,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,young-cherry,2021-11-20,Herramientas,2013-10-30,1,9.63,1.16,9.63,10.79
+Grace,Hicks,Colombia,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,bold-lake,2021-03-27,Herramientas,2013-10-30,2,9.63,2.31,19.26,21.57
+Grace,Hicks,Colombia,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,lingering-flower,2021-01-14,Sustrato,2013-10-30,4,6.04,2.90,24.16,27.06
+Grace,Hicks,Colombia,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,holy-brook,2021-09-18,Herramientas,2013-10-30,3,9.63,3.47,28.89,32.36
+Olivia,Perez,Colombia,Akadama,Un sustrato japonés hecho de arcilla volcánica,throbbing-violet,2021-05-20,Sustrato,2022-06-20,2,6.04,1.45,12.08,13.53
+Samuel,Johnson,Unite Estates,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,cool-dream,2020-12-11,Herramientas,2021-05-31,2,9.63,2.31,19.26,21.57
+Samuel,Johnson,Unite Estates,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,muddy-star,2021-11-23,Macetas,2021-05-31,5,12.09,7.25,60.45,67.70
+Maya,Gonzalez,Colombia,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,solitary-field,2021-06-30,Sustrato,2005-10-23,3,6.04,2.17,18.12,20.29
+Maya,Gonzalez,Colombia,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,dawn-darkness,2021-09-27,Macetas,2005-10-23,3,12.09,4.35,36.27,40.62
+Nathaniel,Gutierrez,Unite Kingdom,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,lively-paper,2021-03-04,Herramientas,2014-08-09,5,9.63,5.78,48.15,53.93
+Nathaniel,Gutierrez,Unite Kingdom,Sierra,se utilizan para cortar ramas gruesas de un bonsái,summer-water,2020-01-15,Herramientas,2014-08-09,5,9.63,5.78,48.15,53.93
+Zachary,Reed,Unite Kingdom,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,withered-night,2020-04-04,Sustrato,2010-05-21,4,6.04,2.90,24.16,27.06
+Zachary,Reed,Unite Kingdom,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,proud-surf,2020-12-16,Herramientas,2010-05-21,4,9.63,4.62,38.52,43.14
+Zachary,Reed,Unite Kingdom,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,shy-glade,2020-11-20,Macetas,2010-05-21,3,12.09,4.35,36.27,40.62
+Liam,Morales,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,bold-smoke,1986-08-21,Macetas,2014-08-15,2,435.20,104.45,870.40,974.85
+Liam,Morales,Sweden,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,cold-forest,2020-12-23,Macetas,2014-08-15,4,12.09,5.80,48.36,54.16
+Liam,Morales,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,solitary-dream,2020-03-02,Herramientas,2014-08-15,3,9.63,3.47,28.89,32.36
+Joshua,Mason,Colombia,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,hidden-dawn,2020-09-29,Herramientas,2021-03-14,3,9.63,3.47,28.89,32.36
+Ryan,Turner,Sweden,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,twilight-wood,2021-03-18,Sustrato,2009-04-22,2,6.04,1.45,12.08,13.53
+Ryan,Turner,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,snowy-sky,2020-03-02,Herramientas,2009-04-22,3,9.63,3.47,28.89,32.36
+Ryan,Turner,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,polished-waterfall,2020-11-04,Herramientas,2009-04-22,3,9.63,3.47,28.89,32.36
+Ryan,Turner,Sweden,Kiryuzuna,También conocido como arena de río,shy-sea,2020-03-07,Sustrato,2009-04-22,1,6.04,0.72,6.04,6.76
+Sadie,Scott,Ecuador,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,twilight-wood,2021-03-18,Sustrato,2003-11-11,4,6.04,2.90,24.16,27.06
+Sadie,Scott,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,throbbing-waterfall,2020-04-17,Herramientas,2003-11-11,1,9.63,1.16,9.63,10.79
+Sadie,Scott,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,long-butterfly,2021-01-17,Herramientas,2003-11-11,5,9.63,5.78,48.15,53.93
+Sadie,Scott,Ecuador,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,white-waterfall,2021-04-18,Herramientas,2003-11-11,4,9.63,4.62,38.52,43.14
+Hazel,Tucker,Ecuador,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,crimson-shape,2021-01-14,Sustrato,2019-12-22,1,6.04,0.72,6.04,6.76
+Alexander,Collins,Sweden,Sierra,se utilizan para cortar ramas gruesas de un bonsái,summer-water,2020-01-15,Herramientas,2005-05-07,1,9.63,1.16,9.63,10.79
+Jaxon,Miller,Colombia,Kiryuzuna,También conocido como arena de río,icy-smoke,2021-06-06,Sustrato,2012-04-01,5,6.04,3.62,30.20,33.82
+Jaxon,Miller,Colombia,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,weathered-pine,2020-06-10,Sustrato,2012-04-01,4,6.04,2.90,24.16,27.06
+Jaxon,Miller,Colombia,Akadama,Un sustrato japonés hecho de arcilla volcánica,empty-star,2020-01-17,Sustrato,2012-04-01,3,6.04,2.17,18.12,20.29
+Jaxon,Miller,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,broken-snow,2020-11-28,Herramientas,2012-04-01,1,9.63,1.16,9.63,10.79
+Luna,Stevens,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,white-bird,2021-10-18,Herramientas,2012-06-13,1,9.63,1.16,9.63,10.79
+Luna,Stevens,Sweden,Yose-ue,Es un estilo de bonsái que involucra varios árboles plantados juntos en un solo recipiente para crear un efecto de bosque.,bold-brook,1986-01-28,Bonsai,2012-06-13,3,447.29,161.02,1341.87,1502.89
+Luna,Stevens,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,small-glitter,2020-10-04,Macetas,2012-06-13,1,12.09,1.45,12.09,13.54
+Luna,Stevens,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,holy-sky,2020-04-27,Macetas,2012-06-13,4,12.09,5.80,48.36,54.16
+Jonathan,Bell,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,autumn-surf,2020-02-01,Herramientas,2009-04-29,5,9.63,5.78,48.15,53.93
+Jonathan,Bell,Colombia,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,autumn-star,1982-08-22,Macetas,2009-04-29,4,483.56,232.11,1934.24,2166.35
+Jonathan,Bell,Colombia,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,autumn-sun,2021-03-17,Sustrato,2009-04-29,2,6.04,1.45,12.08,13.53
+Jonathan,Bell,Colombia,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,delicate-sun,2020-11-08,Herramientas,2009-04-29,5,9.63,5.78,48.15,53.93
+Jonathan,Bell,Colombia,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,sparkling-meadow,2020-07-07,Macetas,2009-04-29,1,12.09,1.45,12.09,13.54
+Caroline,Perez,Sweden,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,red-pond,2020-10-28,Herramientas,2015-10-01,3,9.63,3.47,28.89,32.36
+Caroline,Perez,Sweden,Yose-ue,Es un estilo de bonsái que involucra varios árboles plantados juntos en un solo recipiente para crear un efecto de bosque.,bold-brook,1986-01-28,Bonsai,2015-10-01,3,447.29,161.02,1341.87,1502.89
+Caroline,Perez,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,weathered-glitter,2021-11-02,Macetas,2015-10-01,1,12.09,1.45,12.09,13.54
+Caroline,Perez,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,withered-morning,2020-07-20,Macetas,2015-10-01,4,12.09,5.80,48.36,54.16
+Caroline,Perez,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,twilight-star,1998-01-13,Macetas,2015-10-01,2,302.23,72.54,604.46,677.00
+Makayla,Morgan,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,dark-fire,2020-07-13,Macetas,2020-04-21,1,12.09,1.45,12.09,13.54
+Makayla,Morgan,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,damp-pine,2020-12-02,Herramientas,2020-04-21,1,9.63,1.16,9.63,10.79
+Makayla,Morgan,Unite Kingdom,Han-Kengai,Este estilo de bonsái se caracteriza por el tronco inclinado hacia abajo,divine-river,2009-02-26,Bonsai,2020-04-21,2,169.25,40.62,338.50,379.12
+Makayla,Morgan,Unite Kingdom,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,solitary-water,2020-10-14,Macetas,2020-04-21,4,12.09,5.80,48.36,54.16
+Luna,Miller,Colombia,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,young-snow,2020-06-26,Herramientas,2017-04-10,3,9.63,3.47,28.89,32.36
+Luna,Miller,Colombia,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,small-smoke,1984-05-16,Macetas,2017-04-10,3,459.38,165.38,1378.14,1543.52
+Luna,Miller,Colombia,Kiryuzuna,También conocido como arena de río,delicate-wood,2021-02-20,Sustrato,2017-04-10,3,6.04,2.17,18.12,20.29
+Luna,Miller,Colombia,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,proud-silence,2021-05-02,Herramientas,2017-04-10,3,9.63,3.47,28.89,32.36
+Luna,Miller,Colombia,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,holy-pond,2020-05-03,Sustrato,2017-04-10,5,6.04,3.62,30.20,33.82
+James,Perez,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,fragrant-wave,2020-04-20,Herramientas,2008-03-30,3,9.63,3.47,28.89,32.36
+Valentina,Stevens,Unite Estates,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,winter-meadow,2020-08-04,Macetas,2008-08-08,3,12.09,4.35,36.27,40.62
+Dylan,Reed,Colombia,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,wandering-smoke,2021-11-06,Macetas,2007-01-19,2,12.09,2.90,24.18,27.08
+Eli,Ortiz,Unite Kingdom,Akadama,Un sustrato japonés hecho de arcilla volcánica,wandering-voice,2021-07-26,Sustrato,2012-09-22,4,6.04,2.90,24.16,27.06
+Eli,Ortiz,Unite Kingdom,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,misty-tree,2021-03-09,Sustrato,2012-09-22,5,6.04,3.62,30.20,33.82
+Addison,Tucker,Colombia,Sierra,se utilizan para cortar ramas gruesas de un bonsái,long-sun,2020-04-20,Herramientas,2017-06-24,3,9.63,3.47,28.89,32.36
+Addison,Tucker,Colombia,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wandering-mountain,2021-02-16,Macetas,2017-06-24,4,12.09,5.80,48.36,54.16
+Addison,Tucker,Colombia,Moyogi,"Es el estilo más común de bonsái, caracterizado por un tronco recto y una corona simétrica.",twilight-river,2008-07-23,Bonsai,2017-06-24,4,169.25,81.24,677.00,758.24
+Addison,Tucker,Colombia,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,billowing-darkness,2021-02-18,Herramientas,2017-06-24,4,9.63,4.62,38.52,43.14
+Aurora,Davis,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,wispy-frog,2021-09-02,Herramientas,2020-06-28,3,9.63,3.47,28.89,32.36
+Skylar,Hicks,Unite Kingdom,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,rough-night,2021-06-23,Sustrato,2008-05-27,4,6.04,2.90,24.16,27.06
+Amelia,Anderson,Unite Estates,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,patient-dew,2021-04-21,Sustrato,2005-05-09,3,6.04,2.17,18.12,20.29
+Amelia,Anderson,Unite Estates,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,floral-thunder,2020-04-28,Macetas,2005-05-09,2,12.09,2.90,24.18,27.08
+Amelia,Anderson,Unite Estates,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,weathered-field,2020-06-25,Macetas,2005-05-09,4,12.09,5.80,48.36,54.16
+Christian,Mitchell,Colombia,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,ancient-sky,2021-08-07,Macetas,2008-04-03,3,12.09,4.35,36.27,40.62
+Christian,Mitchell,Colombia,Neagari,Es un estilo de bonsái en el que el tronco está completamente expuesto en la superficie del suelo,old-grass,1990-08-12,Bonsai,2008-04-03,4,386.85,185.69,1547.40,1733.09
+Christian,Mitchell,Colombia,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,dry-waterfall,2021-03-20,Macetas,2008-04-03,5,12.09,7.25,60.45,67.70
+Christian,Mitchell,Colombia,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,damp-frog,2021-01-03,Herramientas,2008-04-03,1,9.63,1.16,9.63,10.79
+Stella,Webb,Sweden,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,spring-butterfly,2021-08-30,Sustrato,2018-05-15,2,6.04,1.45,12.08,13.53
+Stella,Webb,Sweden,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,lingering-pine,2021-08-30,Herramientas,2018-05-15,2,9.63,2.31,19.26,21.57
+Hunter,Mason,Unite Estates,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,muddy-moon,2020-10-10,Sustrato,2021-01-29,4,6.04,2.90,24.16,27.06
+Hunter,Mason,Unite Estates,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,fragrant-wave,2020-04-20,Herramientas,2021-01-29,4,9.63,4.62,38.52,43.14
+Hunter,Mason,Unite Estates,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,bitter-haze,2021-01-27,Macetas,2021-01-29,2,12.09,2.90,24.18,27.08
+Gemma,Gonzalez,Unite Kingdom,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wispy-leaf,2021-12-25,Macetas,2010-06-12,5,12.09,7.25,60.45,67.70
+Gemma,Gonzalez,Unite Kingdom,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,red-leaf,2020-08-05,Herramientas,2010-06-12,1,9.63,1.16,9.63,10.79
+Gemma,Gonzalez,Unite Kingdom,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,weathered-glitter,2021-11-02,Macetas,2010-06-12,2,12.09,2.90,24.18,27.08
+Gemma,Gonzalez,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,polished-waterfall,2020-11-04,Herramientas,2010-06-12,2,9.63,2.31,19.26,21.57
+Gemma,Gonzalez,Unite Kingdom,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,misty-wave,2020-11-25,Macetas,2010-06-12,2,12.09,2.90,24.18,27.08
+Dominic,Cook,Sweden,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,bold-lake,2020-07-29,Herramientas,2021-07-06,4,9.63,4.62,38.52,43.14
+Dominic,Cook,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,muddy-star,2020-11-30,Herramientas,2021-07-06,3,9.63,3.47,28.89,32.36
+Dominic,Cook,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,dry-paper,2021-04-15,Macetas,2021-07-06,1,12.09,1.45,12.09,13.54
+Dominic,Cook,Sweden,Ishitsuki,Se refiere a un estilo de bonsái en el que el árbol se cultiva en una roca,late-sun,2002-03-04,Bonsai,2021-07-06,2,253.87,60.93,507.74,568.67
+Dominic,Cook,Sweden,Sierra,se utilizan para cortar ramas gruesas de un bonsái,old-glitter,2020-08-01,Herramientas,2021-07-06,5,9.63,5.78,48.15,53.93
+Abigail,Perez,Ecuador,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,weathered-water,2020-11-10,Herramientas,2010-03-11,1,9.63,1.16,9.63,10.79
+Abigail,Perez,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,autumn-surf,2020-02-01,Herramientas,2010-03-11,5,9.63,5.78,48.15,53.93
+Abigail,Perez,Ecuador,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,ancient-wood,2021-03-14,Herramientas,2010-03-11,4,9.63,4.62,38.52,43.14
+Abigail,Perez,Ecuador,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,wild-snowflake,2021-02-14,Herramientas,2010-03-11,4,9.63,4.62,38.52,43.14
+Jackson,Anderson,Colombia,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wild-pine,2020-06-23,Macetas,2002-03-13,5,12.09,7.25,60.45,67.70
+Jackson,Anderson,Colombia,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,snowy-dawn,2020-03-23,Herramientas,2002-03-13,1,9.63,1.16,9.63,10.79
+Jackson,Anderson,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,divine-dust,2020-05-21,Herramientas,2002-03-13,4,9.63,4.62,38.52,43.14
+Jackson,Anderson,Colombia,Kiryuzuna,También conocido como arena de río,cool-breeze,2021-02-03,Sustrato,2002-03-13,1,6.04,0.72,6.04,6.76
+Jackson,Anderson,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,morning-sun,2021-09-24,Herramientas,2002-03-13,2,9.63,2.31,19.26,21.57
+Easton,Henry,Unite Kingdom,Literati,Este estilo de bonsái se caracteriza por un tronco retorcido y ramas curvas.,divine-morning,2012-07-12,Bonsai,2006-02-10,3,120.89,43.52,362.67,406.19
+Easton,Henry,Unite Kingdom,Vermiculita,Es un sustrato similar a la perlita,wispy-smoke,2020-12-02,Sustrato,2006-02-10,4,6.04,2.90,24.16,27.06
+Easton,Henry,Unite Kingdom,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,ancient-butterfly,2021-08-24,Herramientas,2006-02-10,3,9.63,3.47,28.89,32.36
+Easton,Henry,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,withered-night,2020-02-26,Macetas,2006-02-10,2,12.09,2.90,24.18,27.08
+Riley,Martin,Ecuador,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,white-fire,1992-03-26,Macetas,2019-11-07,2,374.76,89.94,749.52,839.46
+Riley,Martin,Ecuador,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,floral-surf,2020-03-18,Macetas,2019-11-07,3,12.09,4.35,36.27,40.62
+Valentina,Davis,Unite Estates,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,white-bird,2021-10-18,Herramientas,2012-07-25,1,9.63,1.16,9.63,10.79
+Riley,Martin,Ecuador,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,damp-butterfly,2021-07-04,Sustrato,2019-11-07,1,6.04,0.72,6.04,6.76
+Riley,Martin,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,green-darkness,2020-08-21,Macetas,2019-11-07,5,12.09,7.25,60.45,67.70
+Riley,Martin,Ecuador,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,bitter-glitter,2020-12-13,Sustrato,2019-11-07,3,6.04,2.17,18.12,20.29
+Ella,Brown,Unite Estates,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,withered-cloud,2020-10-21,Macetas,2011-07-27,2,12.09,2.90,24.18,27.08
+Ella,Brown,Unite Estates,Sierra,se utilizan para cortar ramas gruesas de un bonsái,wispy-flower,2020-06-12,Herramientas,2011-07-27,5,9.63,5.78,48.15,53.93
+Ella,Brown,Unite Estates,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,lingering-flower,2021-01-14,Sustrato,2011-07-27,1,6.04,0.72,6.04,6.76
+Aaliyah,Wright,Ecuador,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,falling-leaf,2021-11-01,Herramientas,2007-01-14,2,9.63,2.31,19.26,21.57
+Aaliyah,Wright,Ecuador,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,dark-sky,1997-05-04,Macetas,2007-01-14,2,302.23,72.54,604.46,677.00
+Aaliyah,Wright,Ecuador,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,lively-meadow,2020-08-06,Herramientas,2007-01-14,2,9.63,2.31,19.26,21.57
+Aaliyah,Wright,Ecuador,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,silent-sunset,2021-01-24,Herramientas,2007-01-14,4,9.63,4.62,38.52,43.14
+Aaliyah,Wright,Ecuador,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,weathered-bush,2021-09-29,Herramientas,2007-01-14,1,9.63,1.16,9.63,10.79
+Luke,Williams,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,dark-water,2020-05-01,Sustrato,2011-03-29,5,6.04,3.62,30.20,33.82
+Luke,Williams,Unite Kingdom,Neagari,Es un estilo de bonsái en el que el tronco está completamente expuesto en la superficie del suelo,withered-wildflower,2018-03-28,Bonsai,2011-03-29,2,60.45,14.51,120.90,135.41
+Harper,Smith,Unite Estates,Kiryuzuna,También conocido como arena de río,dawn-water,2020-02-22,Sustrato,2010-03-29,1,6.04,0.72,6.04,6.76
+Harper,Smith,Unite Estates,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wandering-mountain,2021-02-16,Macetas,2010-03-29,5,12.09,7.25,60.45,67.70
+Harper,Smith,Unite Estates,Kiryuzuna,También conocido como arena de río,empty-surf,2020-06-18,Sustrato,2010-03-29,4,6.04,2.90,24.16,27.06
+Harper,Smith,Unite Estates,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,dark-frost,2021-11-22,Herramientas,2010-03-29,5,9.63,5.78,48.15,53.93
+Jason,Tucker,Unite Estates,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,empty-snow,2021-12-06,Macetas,2001-12-12,1,12.09,1.45,12.09,13.54
+Skylar,Green,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,summer-glade,2020-07-23,Herramientas,2011-01-19,2,9.63,2.31,19.26,21.57
+Dominic,Simpson,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,holy-frost,2021-04-16,Macetas,2001-10-01,5,12.09,7.25,60.45,67.70
+Dominic,Simpson,Unite Kingdom,Vermiculita,Es un sustrato similar a la perlita,twilight-flower,2020-03-17,Sustrato,2001-10-01,1,6.04,0.72,6.04,6.76
+Dominic,Simpson,Unite Kingdom,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,bold-mountain,2020-10-06,Sustrato,2001-10-01,3,6.04,2.17,18.12,20.29
+Dominic,Simpson,Unite Kingdom,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,proud-cherry,1994-07-21,Macetas,2001-10-01,5,338.49,203.09,1692.45,1895.54
+Ezra,Reyes,Sweden,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,autumn-brook,2020-02-05,Sustrato,2016-05-13,3,6.04,2.17,18.12,20.29
+Ezra,Reyes,Sweden,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,red-wood,2020-04-15,Macetas,2016-05-13,2,12.09,2.90,24.18,27.08
+Ezra,Reyes,Sweden,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,floral-lake,2020-07-23,Sustrato,2016-05-13,2,6.04,1.45,12.08,13.53
+Hunter,King,Sweden,Sierra,se utilizan para cortar ramas gruesas de un bonsái,small-voice,2021-10-17,Herramientas,2006-02-17,4,9.63,4.62,38.52,43.14
+Hunter,King,Sweden,Kiryuzuna,También conocido como arena de río,icy-smoke,2021-06-06,Sustrato,2006-02-17,3,6.04,2.17,18.12,20.29
+Hunter,King,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,winter-meadow,2020-08-04,Macetas,2006-02-17,4,12.09,5.80,48.36,54.16
+Hunter,King,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,withered-meadow,2021-03-26,Herramientas,2006-02-17,5,9.63,5.78,48.15,53.93
+Sophia,Hall,Colombia,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,falling-sea,2020-01-17,Sustrato,2001-05-27,2,6.04,1.45,12.08,13.53
+Sophia,Hall,Colombia,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,weathered-firefly,2020-11-27,Herramientas,2001-05-27,4,9.63,4.62,38.52,43.14
+Sophia,Hall,Colombia,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,misty-water,2020-02-28,Herramientas,2001-05-27,5,9.63,5.78,48.15,53.93
+Riley,Jackson,Ecuador,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,aged-dew,2020-04-01,Herramientas,2007-03-17,3,9.63,3.47,28.89,32.36
+Anthony,Bailey,Unite Kingdom,Kiryuzuna,También conocido como arena de río,weathered-snow,2021-09-26,Sustrato,2005-09-12,4,6.04,2.90,24.16,27.06
+Hudson,Carter,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,divine-resonance,2020-07-19,Herramientas,2017-06-06,1,9.63,1.16,9.63,10.79
+Hudson,Carter,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,blue-river,1992-02-11,Macetas,2017-06-06,1,374.76,44.97,374.76,419.73
+Hudson,Carter,Sweden,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,autumn-mountain,2020-10-19,Herramientas,2017-06-06,2,9.63,2.31,19.26,21.57
+Hudson,Carter,Sweden,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,floral-resonance,2020-05-11,Sustrato,2017-06-06,5,6.04,3.62,30.20,33.82
+Hudson,Carter,Sweden,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,empty-waterfall,2021-06-20,Herramientas,2017-06-06,4,9.63,4.62,38.52,43.14
+Mason,Roberts,Unite Estates,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,lingering-pine,2021-08-30,Herramientas,2016-11-27,5,9.63,5.78,48.15,53.93
+Mason,Roberts,Unite Estates,Vermiculita,Es un sustrato similar a la perlita,blue-dream,2020-10-03,Sustrato,2016-11-27,5,6.04,3.62,30.20,33.82
+Easton,Evans,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,muddy-star,2020-11-30,Herramientas,2008-10-28,4,9.63,4.62,38.52,43.14
+Easton,Evans,Ecuador,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,small-smoke,1984-05-16,Macetas,2008-10-28,4,459.38,220.50,1837.52,2058.02
+Easton,Evans,Ecuador,Vermiculita,Es un sustrato similar a la perlita,white-grass,2020-11-23,Sustrato,2008-10-28,5,6.04,3.62,30.20,33.82
+Jaxson,Reyes,Unite Kingdom,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,misty-water,2020-02-28,Herramientas,2007-08-31,3,9.63,3.47,28.89,32.36
+Jaxson,Reyes,Unite Kingdom,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,proud-cherry,1994-07-21,Macetas,2007-08-31,4,338.49,162.48,1353.96,1516.44
+Jaxson,Reyes,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,wild-rain,2021-04-02,Sustrato,2007-08-31,2,6.04,1.45,12.08,13.53
+Jaxson,Reyes,Unite Kingdom,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,lively-pond,2021-04-28,Sustrato,2007-08-31,4,6.04,2.90,24.16,27.06
+Jaxson,Reyes,Unite Kingdom,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,delicate-dust,2021-02-25,Herramientas,2007-08-31,4,9.63,4.62,38.52,43.14
+Carter,Allen,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,morning-rain,2020-02-15,Macetas,2017-06-04,4,12.09,5.80,48.36,54.16
+Carter,Allen,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,aged-silence,2020-08-27,Macetas,2017-06-04,4,12.09,5.80,48.36,54.16
+Caroline,Tucker,Sweden,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,green-tree,2020-12-09,Sustrato,2022-06-03,4,6.04,2.90,24.16,27.06
+Hunter,Mason,Unite Estates,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,icy-leaf,2021-05-09,Macetas,2021-01-29,2,12.09,2.90,24.18,27.08
+Hunter,Mason,Unite Estates,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,autumn-sound,2021-09-29,Sustrato,2021-01-29,5,6.04,3.62,30.20,33.82
+Hunter,Mason,Unite Estates,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,young-frost,2021-08-21,Herramientas,2021-01-29,1,9.63,1.16,9.63,10.79
+Aiden,Campbell,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,patient-breeze,2021-06-06,Macetas,2016-09-16,2,12.09,2.90,24.18,27.08
+Aiden,Campbell,Sweden,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,young-thunder,2020-07-20,Herramientas,2016-09-16,4,9.63,4.62,38.52,43.14
+Aiden,Campbell,Sweden,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,little-violet,2020-01-20,Macetas,2016-09-16,5,12.09,7.25,60.45,67.70
+Aiden,Campbell,Sweden,Vermiculita,Es un sustrato similar a la perlita,wispy-violet,2020-09-14,Sustrato,2016-09-16,5,6.04,3.62,30.20,33.82
+Aiden,Campbell,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,rough-waterfall,2021-08-15,Herramientas,2016-09-16,1,9.63,1.16,9.63,10.79
+Dominic,Taylor,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,long-fire,2021-12-11,Herramientas,2003-04-06,2,9.63,2.31,19.26,21.57
+Dominic,Taylor,Sweden,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,withered-water,2021-11-05,Macetas,2003-04-06,1,12.09,1.45,12.09,13.54
+Adrian,Adams,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,small-wood,2020-11-29,Herramientas,2015-02-18,2,9.63,2.31,19.26,21.57
+Adrian,Adams,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,long-sun,2021-11-19,Macetas,2015-02-18,2,12.09,2.90,24.18,27.08
+Adrian,Adams,Sweden,Akadama,Un sustrato japonés hecho de arcilla volcánica,restless-rain,2021-11-28,Sustrato,2015-02-18,2,6.04,1.45,12.08,13.53
+Adrian,Adams,Sweden,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,crimson-forest,2021-08-08,Sustrato,2015-02-18,5,6.04,3.62,30.20,33.82
+Adrian,Adams,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,wispy-sky,2021-04-18,Macetas,2015-02-18,2,12.09,2.90,24.18,27.08
+Christopher,Brown,Colombia,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,spring-sunset,2020-11-07,Herramientas,2005-04-30,3,9.63,3.47,28.89,32.36
+Christopher,Brown,Colombia,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,ancient-glade,2021-12-15,Herramientas,2005-04-30,4,9.63,4.62,38.52,43.14
+Christopher,Brown,Colombia,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,morning-rain,2021-01-14,Sustrato,2005-04-30,2,6.04,1.45,12.08,13.53
+Christopher,Brown,Colombia,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,twilight-breeze,2020-01-27,Macetas,2005-04-30,1,12.09,1.45,12.09,13.54
+Christopher,Brown,Colombia,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,ancient-glade,2021-12-15,Herramientas,2005-04-30,3,9.63,3.47,28.89,32.36
+Elijah,Morales,Unite Kingdom,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,restless-shape,2020-07-22,Macetas,2005-06-15,4,12.09,5.80,48.36,54.16
+Elijah,Morales,Unite Kingdom,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,bitter-wave,2021-06-16,Herramientas,2005-06-15,2,9.63,2.31,19.26,21.57
+Elijah,Morales,Unite Kingdom,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,wild-bird,2020-07-13,Herramientas,2005-06-15,2,9.63,2.31,19.26,21.57
+Elijah,Morales,Unite Kingdom,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,black-star,2021-01-09,Sustrato,2005-06-15,1,6.04,0.72,6.04,6.76
+Elijah,Morales,Unite Kingdom,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,bitter-wave,2021-06-16,Herramientas,2005-06-15,2,9.63,2.31,19.26,21.57
+Caleb,Bailey,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,muddy-star,2021-11-23,Macetas,2009-02-20,5,12.09,7.25,60.45,67.70
+Andrew,Green,Unite Estates,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,patient-dew,2021-04-21,Sustrato,2004-02-19,2,6.04,1.45,12.08,13.53
+Andrew,Green,Unite Estates,Sierra,se utilizan para cortar ramas gruesas de un bonsái,autumn-meadow,2020-10-21,Herramientas,2004-02-19,5,9.63,5.78,48.15,53.93
+Andrew,Green,Unite Estates,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,purple-bush,2020-10-26,Herramientas,2004-02-19,4,9.63,4.62,38.52,43.14
+Andrew,Green,Unite Estates,Akadama,Un sustrato japonés hecho de arcilla volcánica,white-fire,2020-10-27,Sustrato,2004-02-19,2,6.04,1.45,12.08,13.53
+Andrew,Green,Unite Estates,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,billowing-darkness,2021-02-18,Herramientas,2004-02-19,5,9.63,5.78,48.15,53.93
+Joshua,Morgan,Unite Kingdom,Akadama,Un sustrato japonés hecho de arcilla volcánica,spring-brook,2021-04-09,Sustrato,2018-10-12,5,6.04,3.62,30.20,33.82
+Madison,Brown,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,wandering-mountain,2021-02-16,Macetas,2013-06-04,5,12.09,7.25,60.45,67.70
+Madison,Brown,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,frosty-field,1997-02-09,Macetas,2013-06-04,1,314.31,37.72,314.31,352.03
+Madison,Brown,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,dark-feather,2021-07-11,Macetas,2013-06-04,2,12.09,2.90,24.18,27.08
+Mason,Bell,Sweden,Fukinagashi,"Se refiere a un bonsái con ramas que se inclinan en una dirección, como si estuvieran siendo sopladas por el viento.
+",wispy-haze,1990-05-01,Bonsai,2016-04-25,2,386.85,92.84,773.70,866.54
+Mason,Bell,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,muddy-butterfly,2020-09-07,Herramientas,2016-04-25,3,9.63,3.47,28.89,32.36
+Leah,Henry,Ecuador,Akadama,Un sustrato japonés hecho de arcilla volcánica,proud-bush,2020-03-13,Sustrato,2005-08-25,2,6.04,1.45,12.08,13.53
+Leah,Henry,Ecuador,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,misty-wave,2020-11-25,Macetas,2005-08-25,3,12.09,4.35,36.27,40.62
+Leah,Henry,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,ancient-bird,2020-10-01,Herramientas,2005-08-25,5,9.63,5.78,48.15,53.93
+Leah,Henry,Ecuador,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,polished-cloud,2020-05-06,Herramientas,2005-08-25,4,9.63,4.62,38.52,43.14
+Avery,Jackson,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,dark-sky,1997-05-04,Macetas,2013-04-22,4,302.23,145.07,1208.92,1353.99
+Nora,Morgan,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,dark-fire,2020-07-13,Macetas,2003-01-30,4,12.09,5.80,48.36,54.16
+Nora,Morgan,Unite Kingdom,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,black-darkness,2020-08-21,Macetas,2003-01-30,5,12.09,7.25,60.45,67.70
+Noah,Webb,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,withered-meadow,2021-03-26,Herramientas,2012-03-16,1,9.63,1.16,9.63,10.79
+Noah,Webb,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,muddy-glitter,2020-11-08,Macetas,2012-03-16,2,12.09,2.90,24.18,27.08
+Luna,Brown,Unite Estates,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,blue-grass,2021-11-03,Herramientas,2022-08-30,3,9.63,3.47,28.89,32.36
+Benjamin,Sanchez,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,long-breeze,2021-08-05,Herramientas,2006-09-11,4,9.63,4.62,38.52,43.14
+Benjamin,Sanchez,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,polished-lake,2020-10-05,Herramientas,2006-09-11,1,9.63,1.16,9.63,10.79
+Benjamin,Sanchez,Sweden,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,cool-brook,2020-05-31,Herramientas,2006-09-11,5,9.63,5.78,48.15,53.93
+Benjamin,Sanchez,Sweden,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,billowing-darkness,2021-02-18,Herramientas,2006-09-11,4,9.63,4.62,38.52,43.14
+Jason,Martin,Ecuador,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,withered-fog,2020-09-24,Herramientas,2008-03-07,4,9.63,4.62,38.52,43.14
+Jason,Martin,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,rough-surf,2020-10-15,Herramientas,2008-03-07,5,9.63,5.78,48.15,53.93
+Jason,Martin,Ecuador,Sierra,se utilizan para cortar ramas gruesas de un bonsái,falling-snow,2020-12-09,Herramientas,2008-03-07,4,9.63,4.62,38.52,43.14
+Jason,Martin,Ecuador,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,small-thunder,2021-09-21,Sustrato,2008-03-07,5,6.04,3.62,30.20,33.82
+Ryan,Baker,Ecuador,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,rough-waterfall,2021-08-15,Herramientas,2021-01-21,3,9.63,3.47,28.89,32.36
+Charlotte,Miller,Unite Kingdom,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,late-voice,2020-05-03,Herramientas,2003-04-21,3,9.63,3.47,28.89,32.36
+Charlotte,Miller,Unite Kingdom,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,wild-feather,2021-01-06,Sustrato,2003-04-21,4,6.04,2.90,24.16,27.06
+Charlotte,Miller,Unite Kingdom,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,lingering-voice,2020-04-27,Herramientas,2003-04-21,3,9.63,3.47,28.89,32.36
+Charlotte,Miller,Unite Kingdom,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,cool-star,1981-12-20,Macetas,2003-04-21,3,495.65,178.43,1486.95,1665.38
+Charlotte,Miller,Unite Kingdom,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,misty-tree,2021-03-09,Sustrato,2003-04-21,2,6.04,1.45,12.08,13.53
+Hazel,Tucker,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,lingering-feather,2020-11-26,Herramientas,2019-12-22,2,9.63,2.31,19.26,21.57
+Hazel,Tucker,Ecuador,Akadama,Un sustrato japonés hecho de arcilla volcánica,spring-flower,2020-07-28,Sustrato,2019-12-22,2,6.04,1.45,12.08,13.53
+Hazel,Tucker,Ecuador,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,weathered-sun,2021-06-18,Macetas,2019-12-22,3,12.09,4.35,36.27,40.62
+Emily,Stewart,Unite Estates,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,still-voice,2020-02-12,Herramientas,2016-11-20,4,9.63,4.62,38.52,43.14
+Emily,Stewart,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,blue-river,1992-02-11,Macetas,2016-11-20,1,374.76,44.97,374.76,419.73
+Emily,Stewart,Unite Estates,Moyogi,"Es el estilo más común de bonsái, caracterizado por un tronco recto y una corona simétrica.",floral-glade,2004-07-03,Bonsai,2016-11-20,2,217.60,52.22,435.20,487.42
+Lucas,Reed,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,sparkling-star,2021-05-12,Herramientas,2003-11-22,3,9.63,3.47,28.89,32.36
+Lucas,Reed,Sweden,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,shy-forest,2021-04-08,Macetas,2003-11-22,1,12.09,1.45,12.09,13.54
+Lucas,Reed,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,wispy-lake,2021-08-01,Herramientas,2003-11-22,1,9.63,1.16,9.63,10.79
+Lucas,Reed,Sweden,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,wild-snowflake,2021-02-14,Herramientas,2003-11-22,2,9.63,2.31,19.26,21.57
+Hudson,Campbell,Unite Estates,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,winter-meadow,2020-08-04,Macetas,2003-05-20,5,12.09,7.25,60.45,67.70
+Jaxon,Lewis,Unite Estates,Akadama,Un sustrato japonés hecho de arcilla volcánica,crimson-dew,2020-11-23,Sustrato,2017-11-25,3,6.04,2.17,18.12,20.29
+Jaxon,Lewis,Unite Estates,Vermiculita,Es un sustrato similar a la perlita,wispy-violet,2020-09-14,Sustrato,2017-11-25,2,6.04,1.45,12.08,13.53
+Jaxon,Lewis,Unite Estates,Akadama,Un sustrato japonés hecho de arcilla volcánica,twilight-water,2020-09-24,Sustrato,2017-11-25,1,6.04,0.72,6.04,6.76
+Camila,Carter,Sweden,Macetas de madera,son una opción más rústica para los bonsáis. Están disponibles en diferentes tipos de madera,bitter-sunset,2020-05-31,Macetas,2021-11-30,4,12.09,5.80,48.36,54.16
+Camila,Carter,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,lingering-sound,2020-10-24,Herramientas,2021-11-30,2,9.63,2.31,19.26,21.57
+Camila,Carter,Sweden,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,bitter-dew,2020-05-21,Herramientas,2021-11-30,3,9.63,3.47,28.89,32.36
+Camila,Carter,Sweden,Kiryuzuna,También conocido como arena de río,hidden-shadow,2020-04-16,Sustrato,2021-11-30,5,6.04,3.62,30.20,33.82
+Colton,Morales,Sweden,Sierra,se utilizan para cortar ramas gruesas de un bonsái,lingering-leaf,2021-05-05,Herramientas,2004-01-01,1,9.63,1.16,9.63,10.79
+Colton,Morales,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,still-voice,2020-02-12,Herramientas,2004-01-01,1,9.63,1.16,9.63,10.79
+Colton,Morales,Sweden,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,throbbing-glade,1989-08-26,Macetas,2004-01-01,5,398.94,239.36,1994.70,2234.06
+Hudson,Stewart,Unite Kingdom,Akadama,Un sustrato japonés hecho de arcilla volcánica,dry-dew,2021-05-01,Sustrato,2019-08-14,4,6.04,2.90,24.16,27.06
+Hudson,Stewart,Unite Kingdom,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,wandering-waterfall,2021-02-09,Herramientas,2019-08-14,5,9.63,5.78,48.15,53.93
+Samuel,Gonzalez,Unite Estates,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,twilight-star,2020-03-24,Herramientas,2013-12-14,4,9.63,4.62,38.52,43.14
+Samuel,Gonzalez,Unite Estates,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,wandering-smoke,2021-11-06,Macetas,2013-12-14,5,12.09,7.25,60.45,67.70
+Benjamin,Nelson,Unite Kingdom,Alicate,se utilizan para ajustar y cortar el alambre que se usa para dar forma a un bonsái,purple-bush,2020-10-26,Herramientas,2017-08-29,2,9.63,2.31,19.26,21.57
+Benjamin,Nelson,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,hidden-lake,2021-12-02,Sustrato,2017-08-29,1,6.04,0.72,6.04,6.76
+Benjamin,Nelson,Unite Kingdom,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,polished-thunder,2021-10-14,Macetas,2017-08-29,2,12.09,2.90,24.18,27.08
+Benjamin,Nelson,Unite Kingdom,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,bold-smoke,1986-08-21,Macetas,2017-08-29,3,435.20,156.67,1305.60,1462.27
+Colton,Mitchell,Ecuador,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,black-water,2020-09-03,Sustrato,2005-08-13,3,6.04,2.17,18.12,20.29
+Colton,Mitchell,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,hidden-pine,2020-10-23,Herramientas,2005-08-13,3,9.63,3.47,28.89,32.36
+Colton,Mitchell,Ecuador,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,red-wood,2020-04-15,Macetas,2005-08-13,5,12.09,7.25,60.45,67.70
+Isaac,Lee,Unite Estates,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,cool-dream,2020-12-11,Herramientas,2012-03-04,2,9.63,2.31,19.26,21.57
+Isaac,Lee,Unite Estates,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,bitter-sound,2020-10-12,Sustrato,2012-03-04,4,6.04,2.90,24.16,27.06
+Isaac,Lee,Unite Estates,Tijeras de defoliación,se utilizan para eliminar las hojas de un bonsái,weathered-firefly,2020-11-27,Herramientas,2012-03-04,1,9.63,1.16,9.63,10.79
+Isaac,Lee,Unite Estates,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,cool-resonance,2021-01-11,Herramientas,2012-03-04,4,9.63,4.62,38.52,43.14
+Autumn,Morris,Ecuador,Sierra,se utilizan para cortar ramas gruesas de un bonsái,silent-pine,2021-12-24,Herramientas,2012-11-20,2,9.63,2.31,19.26,21.57
+Autumn,Morris,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,cold-shape,2021-04-25,Herramientas,2012-11-20,4,9.63,4.62,38.52,43.14
+Riley,Boyd,Unite Kingdom,Cepillo de raíz,se utilizan para limpiar la tierra de las raíces del bonsái,blue-snowflake,2021-10-20,Herramientas,2008-09-24,1,9.63,1.16,9.63,10.79
+Riley,Boyd,Unite Kingdom,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,late-voice,2020-05-03,Herramientas,2008-09-24,4,9.63,4.62,38.52,43.14
+Riley,Boyd,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,spring-field,2020-07-31,Herramientas,2008-09-24,1,9.63,1.16,9.63,10.79
+Riley,Boyd,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,icy-sun,2020-07-17,Sustrato,2008-09-24,2,6.04,1.45,12.08,13.53
+Addison,Roberts,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,young-sun,2020-02-21,Herramientas,2022-05-09,2,9.63,2.31,19.26,21.57
+Addison,Roberts,Colombia,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,dry-bush,1995-06-30,Macetas,2022-05-09,2,326.40,78.34,652.80,731.14
+Charlotte,Boyd,Unite Estates,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,crimson-cherry,2020-09-23,Herramientas,2001-05-15,1,9.63,1.16,9.63,10.79
+Charlotte,Boyd,Unite Estates,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,rough-surf,2020-10-15,Herramientas,2001-05-15,1,9.63,1.16,9.63,10.79
+Charlotte,Boyd,Unite Estates,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,cool-glitter,2020-05-23,Macetas,2001-05-15,3,12.09,4.35,36.27,40.62
+Asher,Williams,Unite Kingdom,Sierra,se utilizan para cortar ramas gruesas de un bonsái,withered-frost,2020-04-26,Herramientas,2021-08-01,4,9.63,4.62,38.52,43.14
+Skylar,Green,Sweden,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,lingering-sun,2020-06-29,Macetas,2011-01-19,4,12.09,5.80,48.36,54.16
+Zachary,Lewis,Colombia,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,broken-sun,2020-02-03,Macetas,2006-03-19,5,12.09,7.25,60.45,67.70
+Ryan,Bell,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,snowy-rain,2020-04-23,Sustrato,2005-10-04,3,6.04,2.17,18.12,20.29
+Benjamin,Roberts,Colombia,Neagari,Es un estilo de bonsái en el que el tronco está completamente expuesto en la superficie del suelo,withered-wildflower,2018-03-28,Bonsai,2009-11-06,1,60.45,7.25,60.45,67.70
+Benjamin,Roberts,Colombia,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,lively-pond,2021-04-28,Sustrato,2009-11-06,3,6.04,2.17,18.12,20.29
+Gemma,Bell,Sweden,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,small-sea,2021-01-11,Herramientas,2009-09-22,5,9.63,5.78,48.15,53.93
+Gemma,Bell,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,crimson-cherry,2021-06-30,Herramientas,2009-09-22,5,9.63,5.78,48.15,53.93
+Gemma,Bell,Sweden,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,holy-butterfly,2020-10-28,Herramientas,2009-09-22,1,9.63,1.16,9.63,10.79
+Gemma,Bell,Sweden,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,wispy-frog,2020-03-29,Macetas,2009-09-22,3,12.09,4.35,36.27,40.62
+Sebastian,Wells,Sweden,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,holy-brook,2021-09-18,Herramientas,2001-07-10,2,9.63,2.31,19.26,21.57
+Sebastian,Wells,Sweden,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,white-rain,2020-04-25,Macetas,2001-07-10,2,12.09,2.90,24.18,27.08
+Sebastian,Wells,Sweden,Cizallas de hoja larga,se utilizan para podar ramas más gruesas en un bonsái,black-haze,2021-07-28,Herramientas,2001-07-10,1,9.63,1.16,9.63,10.79
+Sebastian,Wells,Sweden,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,young-frost,2021-08-21,Herramientas,2001-07-10,3,9.63,3.47,28.89,32.36
+Ryan,Bell,Unite Kingdom,Perlita,Es un sustrato de origen volcánico muy ligero que se utiliza a menudo en mezclas de sustratos para bonsáis. Tiene una capacidad de retención de agua moderada y ayuda a mejorar la aireación del sustrato,withered-breeze,2020-07-22,Sustrato,2022-06-12,3,6.04,2.17,18.12,20.29
+Ryan,Bell,Unite Kingdom,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,nameless-snowflake,2020-05-26,Herramientas,2022-06-12,1,9.63,1.16,9.63,10.79
+Ryan,Bell,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,holy-frost,2021-04-16,Macetas,2022-06-12,5,12.09,7.25,60.45,67.70
+Ryan,Bell,Unite Kingdom,Sphagnum moss,Es un tipo de musgo que se utiliza a menudo como sustrato para bonsáis. Tiene una capacidad de retención de agua muy alta y ayuda a mantener las raíces húmedas,little-sun,2020-09-21,Sustrato,2022-06-12,4,6.04,2.90,24.16,27.06
+Ryan,Bell,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,lingering-breeze,2020-10-02,Herramientas,2022-06-12,4,9.63,4.62,38.52,43.14
+Nicholas,Edwards,Unite Estates,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,lingering-sound,2020-10-24,Herramientas,2020-05-23,1,9.63,1.16,9.63,10.79
+Nicholas,Edwards,Unite Estates,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,bold-feather,1988-11-24,Macetas,2020-05-23,1,411.03,49.32,411.03,460.35
+Nicholas,Edwards,Unite Estates,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,withered-glitter,2020-02-06,Macetas,2020-05-23,4,12.09,5.80,48.36,54.16
+Nicholas,Edwards,Unite Estates,Kanuma,Es otro sustrato japonés que se utiliza comúnmente para bonsáis de coníferas. Está hecho de tierra volcánica ácida y es especialmente bueno para las plantas que requieren un pH bajo,summer-resonance,2021-07-29,Sustrato,2020-05-23,1,6.04,0.72,6.04,6.76
+Mia,Simpson,Ecuador,Han-Kengai,Este estilo de bonsái se caracteriza por el tronco inclinado hacia abajo,divine-river,2009-02-26,Bonsai,2005-02-22,4,169.25,81.24,677.00,758.24
+Mia,Simpson,Ecuador,Piedra pómez,Es un sustrato ligero que se utiliza para mejorar el drenaje en la base del bonsái. También puede ayudar a reducir la compactación del sustrato y mejorar la aireación de las raíces,broken-feather,2021-04-17,Sustrato,2005-02-22,2,6.04,1.45,12.08,13.53
+Mia,Simpson,Ecuador,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,green-grass,2021-03-21,Sustrato,2005-02-22,1,6.04,0.72,6.04,6.76
+Mia,Simpson,Ecuador,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,late-glitter,2021-07-27,Herramientas,2005-02-22,2,9.63,2.31,19.26,21.57
+Lila,Miller,Ecuador,Kiryuzuna,También conocido como arena de río,polished-resonance,2020-11-20,Sustrato,2006-12-30,1,6.04,0.72,6.04,6.76
+Lila,Miller,Ecuador,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,withered-dream,2021-01-10,Macetas,2006-12-30,3,12.09,4.35,36.27,40.62
+Daniel,Porter,Unite Kingdom,Sierra,se utilizan para cortar ramas gruesas de un bonsái,wild-voice,2020-10-08,Herramientas,2016-07-19,4,9.63,4.62,38.52,43.14
+Daniel,Porter,Unite Kingdom,Macetas de arcilla,son macetas porosas que permiten una mejor circulación del aire y el agua. Sin embargo,red-wood,2020-04-15,Macetas,2016-07-19,2,12.09,2.90,24.18,27.08
+Michael,Taylor,Unite Kingdom,Macetas de metal,son una opción más moderna para los bonsáis. Están disponibles en diferentes acabados y pueden ser duraderas y resistentes a la intemperie. Sin embargo,white-rain,2020-04-25,Macetas,2001-01-27,2,12.09,2.90,24.18,27.08
+Michael,Taylor,Unite Kingdom,Cizallas de yunque,se utilizan para cortar ramas y hojas de un bonsái con menos esfuerzo,ancient-wood,2021-03-14,Herramientas,2001-01-27,4,9.63,4.62,38.52,43.14
+Michael,Taylor,Unite Kingdom,Macetas de cerámica,son las macetas más comunes para los bonsáis. Están disponibles en varios tamaños,spring-cherry,1995-06-03,Macetas,2001-01-27,5,326.40,195.84,1632.00,1827.84
+Michael,Taylor,Unite Kingdom,Tijeras de podar,Se utilizan para cortar ramas y hojas de un bonsái,cool-sea,2021-10-24,Herramientas,2001-01-27,4,9.63,4.62,38.52,43.14
+Olivia,Perez,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,bitter-wave,2021-06-16,Herramientas,2001-07-29,3,9.63,3.47,28.89,32.36
+Olivia,Perez,Colombia,Moyogi,"Es el estilo más común de bonsái, caracterizado por un tronco recto y una corona simétrica.",floral-glade,2004-07-03,Bonsai,2001-07-29,5,217.60,130.56,1088.00,1218.56
+Olivia,Perez,Colombia,Cincel de raíz,se utilizan para separar y cortar las raíces del bonsái,old-moon,2020-09-29,Herramientas,2001-07-29,2,9.63,2.31,19.26,21.57
+Olivia,Perez,Colombia,Neagari,Es un estilo de bonsái en el que el tronco está completamente expuesto en la superficie del suelo,bitter-silence,1993-08-26,Bonsai,2001-07-29,5,350.58,210.35,1752.90,1963.25
+Olivia,Perez,Colombia,Macetas de plástico,son una opción económica para los bonsáis. Son resistentes,icy-leaf,2021-05-09,Macetas,2001-07-29,5,12.09,7.25,60.45,67.70
+Nicholas,Reyes,Unite Kingdom,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,rough-snow,2021-02-24,Herramientas,2002-04-19,5,9.63,5.78,48.15,53.93
+Nicholas,Reyes,Unite Kingdom,Macetas de vidrio,son una opción menos común para los bonsáis. Permiten una visión completa de las raíces y pueden ser interesantes desde el punto de vista decorativo,damp-hill,2020-06-29,Macetas,2002-04-19,1,12.09,1.45,12.09,13.54
+Nicholas,Reyes,Unite Kingdom,Gancho de raíz,se utilizan para limpiar la tierra de las raíces del bonsái y ajustar el alambre,billowing-glitter,2021-01-10,Herramientas,2002-04-19,2,9.63,2.31,19.26,21.57
+Nicholas,Reyes,Unite Kingdom,Tierra para macetas,es un sustrato común que se puede utilizar para bonsáis. Es una mezcla de tierra,delicate-mountain,2020-10-16,Sustrato,2002-04-19,5,6.04,3.62,30.20,33.82
+Nicholas,Reyes,Unite Kingdom,Pinzas de agarrar,se utilizan para trabajar en ramas pequeñas y ajustar el alambre,proud-mountain,2021-02-14,Herramientas,2002-04-19,1,9.63,1.16,9.63,10.79
