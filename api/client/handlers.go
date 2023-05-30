@@ -13,15 +13,16 @@ import (
 func GenerateClients(c *gin.Context, db *sql.DB) {
 	nClients := functions.NewRandomValue(2000)
 
-	query := "insert into cliente (pais_id, nombre, apellido, fecha_nacimiento, correo_electronico) values($1,$2,$3,$4,$5)"
+	query := "insert into cliente (pais_id, nombre, apellido, fecha_nacimiento, correo_electronico, sexo, salario, profesion) values($1,$2,$3,$4,$5,$6,$7,$8)"
 
 	for i := 0; i < nClients; i++ {
-		firstname, lastname, _ := functions.RandomPersonName()
+		firstname, lastname, sex := functions.RandomPersonName()
 		countryId := functions.RandomIndexValue(country.GetIds(db))
 		birthdate := functions.GenerateDateInRange(1960, 2000)
 		email := functions.RandomEmailAddress(firstname, lastname)
+		profession, salary := functions.RandomProfessionSalary()
 
-		_, err := db.Exec(query, countryId, firstname, lastname, birthdate, email)
+		_, err := db.Exec(query, countryId, firstname, lastname, birthdate, email, sex, salary, profession)
 		if err != nil {
 			panic(err)
 		}

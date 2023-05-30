@@ -10,12 +10,12 @@ import (
 func RandomPersonName() (string, string, string) {
 	rand.NewSource(time.Now().UnixNano())
 
-	var sex = "male"
+	var sex = "M"
 	firstName := firstNames[rand.Intn(len(firstNames))]
 	lastName := lastNames[rand.Intn(len(lastNames))]
 
 	if strings.LastIndex(firstName, "a") == len(firstName)-1 {
-		sex = "female"
+		sex = "F"
 	}
 
 	return firstName, lastName, sex
@@ -28,4 +28,9 @@ func RandomFancyName() string {
 	name := nameGenerator.Generate()
 
 	return name
+}
+
+func RandomProfessionSalary() (string, float64) {
+	profession := professions[rand.Intn(len(professions))]
+	return profession.name, profession.salary
 }
