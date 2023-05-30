@@ -12,3 +12,17 @@ var lastNames = []string{
 var emailProviders = []string{
 	"@hotmail.com", "@yahoo.es", "@outlook.com", "@gmail.com",
 }
+
+type profession struct {
+	name   string
+	salary float64
+}
+
+var professions = []*profession{
+	{name: "Teacher", salary: 750},
+	{name: "Business", salary: 1000},
+	{name: "Policeman", salary: 900},
+	{name: "Firefighter", salary: 1000},
+	{name: "Engineer", salary: 1500},
+	{name: "Mechanic", salary: 2000},
+}
