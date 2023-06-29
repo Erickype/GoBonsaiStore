@@ -65,7 +65,7 @@ func GetIds(db *sql.DB) []int {
 
 func GetById(db *sql.DB, productId int) *Product {
 	product := &Product{}
-	query := "select * from producto where producto_id = $1"
+	query := "select producto_id, categoria_id, nombre, fecha_fabricacion from producto where producto_id = $1"
 
 	rows := db.QueryRow(query, productId)
 

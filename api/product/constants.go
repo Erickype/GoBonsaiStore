@@ -20,6 +20,28 @@ var measures = map[int]map[int][]float64{
 		10: []float64{35, 30, 25}, // Neagari
 		11: []float64{30, 25, 20}, // Ishitsuki
 	},
+	12: {
+		15: []float64{26.5, 26.5, 26.5}, // Akadama
+		16: []float64{28, 35.5, 35.5},   // Kiryuzuna
+		17: []float64{35.5, 47, 47},     // Kanuma
+		18: []float64{25, 25, 25},       // Sphagnum moss
+		19: []float64{26.5, 26.5, 26.5}, // Tierra para macetas
+		20: []float64{28, 28, 28},       // Piedra pómez
+		21: []float64{35.5, 35.5, 35.5}, // Perlita
+		22: []float64{28, 28, 28},       // Vermiculita
+	},
+	13: {
+		23: []float64{23, 13, 0}, // Tijeras de podar
+		24: []float64{24, 13, 0}, // Cizallas de hoja larga
+		25: []float64{25, 13, 0}, // Cizallas de yunque
+		26: []float64{26, 13, 0}, // Tijeras de defoliación
+		27: []float64{27, 13, 0}, // Pinzas de agarrar
+		28: []float64{28, 13, 0}, // Gancho de raíz
+		29: []float64{29, 13, 0}, // Cepillo de raíz
+		30: []float64{30, 13, 0}, // Cincel de raíz
+		31: []float64{31, 13, 0}, // Sierra
+		32: []float64{32, 13, 0}, // Alicate
+	},
 	14: {
 		33: []float64{20, 15, 15}, // Macetas de cerámica
 		34: []float64{25, 20, 20}, // Macetas de madera
