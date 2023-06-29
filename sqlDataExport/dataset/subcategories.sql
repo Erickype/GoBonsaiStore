@@ -1,6 +1,5 @@
 select
     V.id_pais as pais, C.edad, G.id as sexo, P.id as profesion, C.salario,
-    SubCategoria.id_subcategoria as subcategoria,
     DATE_PART('year', CURRENT_DATE) - DATE_PART('year', Producto.fecha_fabricacion) as edad_producto,
     Producto.alto, Producto.ancho, Producto.profundidad, Producto.edad_relevante,
     V.cantidad_producto, V.precio_unitario, V.iva_cobrado as iva, V.subtotal, V.total, Ganancias.ganancia,
