@@ -12,12 +12,13 @@ import (
 func GenerateBonsaiProducts(c *gin.Context, db *sql.DB) {
 	bonsaiCategories := getCategoriesByParentId(db, 1)
 	nProducts := functions.NewRandomValue(500)
-	query := "insert into producto (categoria_id, nombre, fecha_fabricacion)  values ($1, $2,$3)"
+	query := "insert into producto (categoria_id, nombre, fecha_fabricacion, alto, ancho, profundidad, edad_relevante)  values ($1, $2,$3, $4,$5, $6,$7)"
 	for i := 0; i < nProducts; i++ {
 		name := functions.RandomFancyName()
 		catId := functions.RandomIndexValue(bonsaiCategories)
 		date := functions.GenerateDateInRange(1980, 2020)
-		_, err := db.Exec(query, catId, name, date)
+		calculatedMeasures := GenerateMeasuresPercentageOffset(1, catId)
+		_, err := db.Exec(query, catId, name, date, calculatedMeasures[0], calculatedMeasures[1], calculatedMeasures[2], true)
 		if err != nil {
 			panic(err)
 		}
@@ -63,17 +64,21 @@ func GenerateToolsProducts(c *gin.Context, db *sql.DB) {
 func GeneratePotsProducts(c *gin.Context, db *sql.DB) {
 	soilCategories := getCategoriesByParentId(db, 14)
 	nProducts := functions.NewRandomValue(500)
-	query := "insert into producto (categoria_id, nombre, fecha_fabricacion)  values ($1, $2,$3)"
+	query := "insert into producto (categoria_id, nombre, fecha_fabricacion, alto, ancho, profundidad, edad_relevante)  values ($1, $2,$3, $4,$5, $6,$7)"
 	for i := 0; i < nProducts; i++ {
 		name := functions.RandomFancyName()
 		var date string
+		var relevance bool
 		catId := functions.RandomIndexValue(soilCategories)
 		if catId == 33 {
 			date = functions.GenerateDateInRange(1980, 2000)
+			relevance = true
 		} else {
 			date = functions.GenerateDateInRange(2020, 2022)
+			relevance = false
 		}
-		_, err := db.Exec(query, catId, name, date)
+		calculatedMeasures := GenerateMeasuresPercentageOffset(14, catId)
+		_, err := db.Exec(query, catId, name, date, calculatedMeasures[0], calculatedMeasures[1], calculatedMeasures[2], relevance)
 		if err != nil {
 			panic(err)
 		}
