@@ -1,9 +1,9 @@
 select
     V.id_pais as pais, C.edad, G.id as sexo, P.id as profesion, C.salario,
-    SubCategoria.id_categoria as categoria,
+    V.id_subcategoria as subcategoria,
     DATE_PART('year', CURRENT_DATE) - DATE_PART('year', Producto.fecha_fabricacion) as edad_producto,
     V.cantidad_producto, V.precio_unitario, V.iva_cobrado as iva, V.subtotal, V.total, Ganancias.ganancia,
-    V.id_subcategoria as clase
+    SubCategoria.id_categoria as clase
 from hechos.venta V
          join dimensiones.cliente C on V.id_cliente = C.id_cliente
          join views.gender G on C.sexo = G.sexo
