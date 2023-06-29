@@ -123,3 +123,22 @@ func GeneratePriceQuantity(db *sql.DB, productId int) (float64, int) {
 	}
 	return price, quantity
 }
+
+func GenerateMeasuresPercentageOffset(category, subcategory int) (randomTops []float64) {
+	stdMeasures := measures[category][subcategory]
+	percentage := functions.NewRandomValue(50) + 1
+	var offsets []float64
+	for i, measure := range stdMeasures {
+		offset := measure * float64(percentage) / 100
+		offsets = append(offsets, offset)
+		tails := functions.NewRandomValue(2)
+		if tails == 0 {
+			randomTop := stdMeasures[i] + offsets[i]
+			randomTops = append(randomTops, randomTop)
+		} else {
+			randomTop := stdMeasures[i] - offsets[i]
+			randomTops = append(randomTops, randomTop)
+		}
+	}
+	return
+}
